@@ -2,18 +2,8 @@ import React from 'react';
 import {
     Typography,
     AppBar,
-    Button,
-    Card,
-    CardActions,
-    CardContent,
-    CardMedia,
     CssBaseline,
-    Grid,
     Toolbar,
-    Container,
-    FormGroup,
-    FormControlLabel,
-    Switch
 } from '@mui/material';
 import { PhotoCamera } from '@mui/icons-material';
 import RenderHSK from './component/renderHsk';
