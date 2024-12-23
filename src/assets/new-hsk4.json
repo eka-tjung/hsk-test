@@ -1,0 +1,6002 @@
+[
+    {
+        "simplified": "阿姨",
+        "pinyin": "āyí",
+        "meaning": "aunt",
+        "traditional": "阿姨"
+    },
+    {
+        "simplified": "啊",
+        "pinyin": "a",
+        "meaning": "ah",
+        "traditional": "啊"
+    },
+    {
+        "simplified": "矮",
+        "pinyin": "ǎi",
+        "meaning": "short",
+        "traditional": "矮"
+    },
+    {
+        "simplified": "矮小",
+        "pinyin": "ǎi xiǎo",
+        "meaning": "short and small; low and small; undersized",
+        "traditional": "矮小"
+    },
+    {
+        "simplified": "爱国",
+        "pinyin": "ài guó",
+        "meaning": "love one’s country; be patriotic",
+        "traditional": "愛國"
+    },
+    {
+        "simplified": "爱护",
+        "pinyin": "àihù",
+        "meaning": "Care",
+        "traditional": "愛護"
+    },
+    {
+        "simplified": "安",
+        "pinyin": "ān",
+        "meaning": "quiet; safe; secure; install; fix; fit",
+        "traditional": "安"
+    },
+    {
+        "simplified": "安置",
+        "pinyin": "ānzhì",
+        "meaning": "put; arrange for",
+        "traditional": "安置"
+    },
+    {
+        "simplified": "按时",
+        "pinyin": "ànshí",
+        "meaning": "on time",
+        "traditional": "按時"
+    },
+    {
+        "simplified": "暗",
+        "pinyin": "àn",
+        "meaning": "dark",
+        "traditional": "暗"
+    },
+    {
+        "simplified": "暗示",
+        "pinyin": "ànshì",
+        "meaning": "suggest secretly",
+        "traditional": "暗示"
+    },
+    {
+        "simplified": "巴士",
+        "pinyin": "bā shì",
+        "meaning": "bus",
+        "traditional": "巴士"
+    },
+    {
+        "simplified": "百货",
+        "pinyin": "bǎi huò",
+        "meaning": "department store; general merchandise",
+        "traditional": "百貨"
+    },
+    {
+        "simplified": "摆",
+        "pinyin": "bǎi",
+        "meaning": "pendulum",
+        "traditional": "擺"
+    },
+    {
+        "simplified": "摆动",
+        "pinyin": "bǎi dòng",
+        "meaning": "swing; sway; oscillate;vibrate",
+        "traditional": "擺動"
+    },
+    {
+        "simplified": "摆脱",
+        "pinyin": "bǎituō",
+        "meaning": "cast off",
+        "traditional": "擺脫"
+    },
+    {
+        "simplified": "败",
+        "pinyin": "bài",
+        "meaning": "defeat; beat; fail; lose",
+        "traditional": "敗"
+    },
+    {
+        "simplified": "办事",
+        "pinyin": "bàn shì",
+        "meaning": "handle affairs; work",
+        "traditional": "辦事"
+    },
+    {
+        "simplified": "包裹",
+        "pinyin": "bāoguǒ",
+        "meaning": "package",
+        "traditional": "包裹"
+    },
+    {
+        "simplified": "包含",
+        "pinyin": "bāohán",
+        "meaning": "Contain",
+        "traditional": "包含"
+    },
+    {
+        "simplified": "包括",
+        "pinyin": "bāokuò",
+        "meaning": "Include",
+        "traditional": "包括"
+    },
+    {
+        "simplified": "薄",
+        "pinyin": "báo",
+        "meaning": "thin",
+        "traditional": "薄"
+    },
+    {
+        "simplified": "宝",
+        "pinyin": "bǎo",
+        "meaning": "treasure; precious; treasured",
+        "traditional": "寶"
+    },
+    {
+        "simplified": "宝宝",
+        "pinyin": "bǎo bao",
+        "meaning": "baby; darling",
+        "traditional": "寶寶"
+    },
+    {
+        "simplified": "宝贝",
+        "pinyin": "bǎobèi",
+        "meaning": "baby",
+        "traditional": "寶貝"
+    },
+    {
+        "simplified": "宝贵",
+        "pinyin": "bǎoguì",
+        "meaning": "valuable",
+        "traditional": "寶貴"
+    },
+    {
+        "simplified": "宝石",
+        "pinyin": "bǎo shí",
+        "meaning": "gemstone; gem; cameo; precious stone",
+        "traditional": "寶石"
+    },
+    {
+        "simplified": "保密",
+        "pinyin": "bǎomì",
+        "meaning": "secrecy",
+        "traditional": "保密"
+    },
+    {
+        "simplified": "保守",
+        "pinyin": "bǎoshǒu",
+        "meaning": "Conservative",
+        "traditional": "保守"
+    },
+    {
+        "simplified": "抱",
+        "pinyin": "bào",
+        "meaning": "Hold, hug",
+        "traditional": "抱"
+    },
+    {
+        "simplified": "背景",
+        "pinyin": "bèijǐng",
+        "meaning": "background",
+        "traditional": "背景"
+    },
+    {
+        "simplified": "倍",
+        "pinyin": "bèi",
+        "meaning": "times",
+        "traditional": "倍"
+    },
+    {
+        "simplified": "被迫",
+        "pinyin": "bèi pò",
+        "meaning": "be compelled; be forced; be constrained",
+        "traditional": "被迫"
+    },
+    {
+        "simplified": "本科",
+        "pinyin": "běnkē",
+        "meaning": "Undergraduate",
+        "traditional": "本科"
+    },
+    {
+        "simplified": "笨",
+        "pinyin": "bèn",
+        "meaning": "stupid",
+        "traditional": "笨"
+    },
+    {
+        "simplified": "比分",
+        "pinyin": "bǐ fēn",
+        "meaning": "score",
+        "traditional": "比分"
+    },
+    {
+        "simplified": "毕业",
+        "pinyin": "bìyè",
+        "meaning": "graduation",
+        "traditional": "畢業"
+    },
+    {
+        "simplified": "毕业生",
+        "pinyin": "bì yè shēng",
+        "meaning": "graduate",
+        "traditional": "畢業生"
+    },
+    {
+        "simplified": "避",
+        "pinyin": "bì",
+        "meaning": "avoid; evade; dodge; keep away; repel",
+        "traditional": "避"
+    },
+    {
+        "simplified": "避免",
+        "pinyin": "bìmiǎn",
+        "meaning": "avoid",
+        "traditional": "避免"
+    },
+    {
+        "simplified": "编",
+        "pinyin": "biān",
+        "meaning": "invent; make up; plait; edit; compile; compose; write",
+        "traditional": "編"
+    },
+    {
+        "simplified": "辩论",
+        "pinyin": "biànlùn",
+        "meaning": "Debate",
+        "traditional": "辯論"
+    },
+    {
+        "simplified": "标志",
+        "pinyin": "biāozhì",
+        "meaning": "sign",
+        "traditional": "標誌"
+    },
+    {
+        "simplified": "表情",
+        "pinyin": "biǎoqíng",
+        "meaning": "Expression",
+        "traditional": "表情"
+    },
+    {
+        "simplified": "表扬",
+        "pinyin": "biǎoyáng",
+        "meaning": "Praise",
+        "traditional": "表揚"
+    },
+    {
+        "simplified": "别（动）",
+        "pinyin": "bié",
+        "meaning": "do not; leave; separate; pin",
+        "traditional": "別（動）"
+    },
+    {
+        "simplified": "冰",
+        "pinyin": "bīng",
+        "meaning": "ice",
+        "traditional": "冰"
+    },
+    {
+        "simplified": "冰箱",
+        "pinyin": "bīngxiāng",
+        "meaning": "Refrigerator",
+        "traditional": "冰箱"
+    },
+    {
+        "simplified": "冰雪",
+        "pinyin": "bīng xuě",
+        "meaning": "ice and snow",
+        "traditional": "冰雪"
+    },
+    {
+        "simplified": "兵",
+        "pinyin": "bīng",
+        "meaning": "arms; soldier; force; weapon; military",
+        "traditional": "兵"
+    },
+    {
+        "simplified": "并（动）",
+        "pinyin": "bìng",
+        "meaning": "combine; merge; incorporate",
+        "traditional": "並（動）"
+    },
+    {
+        "simplified": "不要紧",
+        "pinyin": "búyàojǐn",
+        "meaning": "Never mind",
+        "traditional": "不要緊"
+    },
+    {
+        "simplified": "不在乎",
+        "pinyin": "bú zài hū",
+        "meaning": "not mind; not care",
+        "traditional": "不在乎"
+    },
+    {
+        "simplified": "不管",
+        "pinyin": "bùguǎn",
+        "meaning": "no matter",
+        "traditional": "不管"
+    },
+    {
+        "simplified": "不然",
+        "pinyin": "bùrán",
+        "meaning": "otherwise",
+        "traditional": "不然"
+    },
+    {
+        "simplified": "布置",
+        "pinyin": "bùzhì",
+        "meaning": "Arrangement",
+        "traditional": "佈置"
+    },
+    {
+        "simplified": "步行",
+        "pinyin": "bù xíng",
+        "meaning": "go on foot; walk",
+        "traditional": "步行"
+    },
+    {
+        "simplified": "擦",
+        "pinyin": "cā",
+        "meaning": "wipe",
+        "traditional": "擦"
+    },
+    {
+        "simplified": "才（名）",
+        "pinyin": "cái",
+        "meaning": "ability; talent; gift; endowment",
+        "traditional": "才（名）"
+    },
+    {
+        "simplified": "材料",
+        "pinyin": "cáiliào",
+        "meaning": "Materials",
+        "traditional": "材料"
+    },
+    {
+        "simplified": "财产",
+        "pinyin": "cáichǎn",
+        "meaning": "property",
+        "traditional": "財產"
+    },
+    {
+        "simplified": "财富",
+        "pinyin": "cáifù",
+        "meaning": "wealth",
+        "traditional": "財富"
+    },
+    {
+        "simplified": "采访",
+        "pinyin": "cǎifǎng",
+        "meaning": "interview",
+        "traditional": "採訪"
+    },
+    {
+        "simplified": "参考",
+        "pinyin": "cānkǎo",
+        "meaning": "Reference resources",
+        "traditional": "參考"
+    },
+    {
+        "simplified": "参与",
+        "pinyin": "cānyù",
+        "meaning": "participate in",
+        "traditional": "參與"
+    },
+    {
+        "simplified": "操场",
+        "pinyin": "cāochǎng",
+        "meaning": "Playground",
+        "traditional": "操場"
+    },
+    {
+        "simplified": "操作",
+        "pinyin": "cāozuò",
+        "meaning": "operation",
+        "traditional": "操作"
+    },
+    {
+        "simplified": "测",
+        "pinyin": "cè",
+        "meaning": "survey; fathom; measure; conjecture; infer",
+        "traditional": "測"
+    },
+    {
+        "simplified": "测量",
+        "pinyin": "cèliáng",
+        "meaning": "measure",
+        "traditional": "測量"
+    },
+    {
+        "simplified": "测试",
+        "pinyin": "cè shì",
+        "meaning": "test; examination",
+        "traditional": "測試"
+    },
+    {
+        "simplified": "曾",
+        "pinyin": "céng",
+        "meaning": "once; already; at some time in the past",
+        "traditional": "曾"
+    },
+    {
+        "simplified": "茶叶",
+        "pinyin": "chá yè",
+        "meaning": "tea; tea-leaves",
+        "traditional": "茶葉"
+    },
+    {
+        "simplified": "产品",
+        "pinyin": "chǎnpǐn",
+        "meaning": "product",
+        "traditional": "產品"
+    },
+    {
+        "simplified": "长途",
+        "pinyin": "chángtú",
+        "meaning": "Long-distance",
+        "traditional": "長途"
+    },
+    {
+        "simplified": "常识",
+        "pinyin": "chángshí",
+        "meaning": "common sense",
+        "traditional": "常識"
+    },
+    {
+        "simplified": "唱片",
+        "pinyin": "chàng piàn",
+        "meaning": "record; disc; phonogram",
+        "traditional": "唱片"
+    },
+    {
+        "simplified": "抄",
+        "pinyin": "chāo",
+        "meaning": "copy",
+        "traditional": "抄"
+    },
+    {
+        "simplified": "抄写",
+        "pinyin": "chāo xiě",
+        "meaning": "copy; transcribe",
+        "traditional": "抄寫"
+    },
+    {
+        "simplified": "潮",
+        "pinyin": "cháo",
+        "meaning": "moist; damp; humid; tide",
+        "traditional": "潮"
+    },
+    {
+        "simplified": "潮流",
+        "pinyin": "cháoliú",
+        "meaning": "Trend",
+        "traditional": "潮流"
+    },
+    {
+        "simplified": "潮湿",
+        "pinyin": "cháoshī",
+        "meaning": "damp",
+        "traditional": "潮濕"
+    },
+    {
+        "simplified": "彻底",
+        "pinyin": "chèdǐ",
+        "meaning": "thorough",
+        "traditional": "徹底"
+    },
+    {
+        "simplified": "沉",
+        "pinyin": "chén",
+        "meaning": "sink; keep down; lower; deep; profound; heavy",
+        "traditional": "沉"
+    },
+    {
+        "simplified": "沉默",
+        "pinyin": "chénmò",
+        "meaning": "silent",
+        "traditional": "沉默"
+    },
+    {
+        "simplified": "沉重",
+        "pinyin": "chénzhòng",
+        "meaning": "heavy",
+        "traditional": "沉重"
+    },
+    {
+        "simplified": "称赞",
+        "pinyin": "chēngzàn",
+        "meaning": "Praise",
+        "traditional": "稱讚"
+    },
+    {
+        "simplified": "成人",
+        "pinyin": "chéngrén",
+        "meaning": "adult",
+        "traditional": "成人"
+    },
+    {
+        "simplified": "诚实",
+        "pinyin": "chéngshí",
+        "meaning": "honest",
+        "traditional": "誠實"
+    },
+    {
+        "simplified": "诚信",
+        "pinyin": "chéng xìn",
+        "meaning": "honesty; integrity",
+        "traditional": "誠信"
+    },
+    {
+        "simplified": "承担",
+        "pinyin": "chéngdān",
+        "meaning": "bear",
+        "traditional": "承擔"
+    },
+    {
+        "simplified": "承认",
+        "pinyin": "chéngrèn",
+        "meaning": "Admit",
+        "traditional": "承認"
+    },
+    {
+        "simplified": "承受",
+        "pinyin": "chéngshòu",
+        "meaning": "bear",
+        "traditional": "承受"
+    },
+    {
+        "simplified": "程序",
+        "pinyin": "chéngxù",
+        "meaning": "program",
+        "traditional": "程序"
+    },
+    {
+        "simplified": "吃惊",
+        "pinyin": "chījīng",
+        "meaning": "Be amazed",
+        "traditional": "吃驚"
+    },
+    {
+        "simplified": "迟到",
+        "pinyin": "chídào",
+        "meaning": "Late",
+        "traditional": "遲到"
+    },
+    {
+        "simplified": "尺",
+        "pinyin": "chǐ",
+        "meaning": "rule; ruler",
+        "traditional": "尺"
+    },
+    {
+        "simplified": "尺寸",
+        "pinyin": "chǐ cùn",
+        "meaning": "size; measurement; dimension",
+        "traditional": "尺寸"
+    },
+    {
+        "simplified": "尺子",
+        "pinyin": "chǐzi",
+        "meaning": "Ruler",
+        "traditional": "尺子"
+    },
+    {
+        "simplified": "冲",
+        "pinyin": "chōng",
+        "meaning": "punching",
+        "traditional": "衝"
+    },
+    {
+        "simplified": "充电",
+        "pinyin": "chōng diàn",
+        "meaning": "recharge; charge",
+        "traditional": "充電"
+    },
+    {
+        "simplified": "充电器",
+        "pinyin": "chōngdiànqì",
+        "meaning": "Charger",
+        "traditional": "充電器"
+    },
+    {
+        "simplified": "充分",
+        "pinyin": "chōngfèn",
+        "meaning": "To the full",
+        "traditional": "充分"
+    },
+    {
+        "simplified": "虫子",
+        "pinyin": "chóng zi",
+        "meaning": "insect; worm; bug",
+        "traditional": "蟲子"
+    },
+    {
+        "simplified": "抽",
+        "pinyin": "chōu",
+        "meaning": "pump; take out; shrink; pick out",
+        "traditional": "抽"
+    },
+    {
+        "simplified": "抽奖",
+        "pinyin": "chōu jiǎng",
+        "meaning": "lottery; lottery draw",
+        "traditional": "抽獎"
+    },
+    {
+        "simplified": "抽烟",
+        "pinyin": "chōuyān",
+        "meaning": "smoking",
+        "traditional": "抽煙"
+    },
+    {
+        "simplified": "出口",
+        "pinyin": "chūkǒu",
+        "meaning": "Exit",
+        "traditional": "出口"
+    },
+    {
+        "simplified": "出色",
+        "pinyin": "chūsè",
+        "meaning": "excellent; outstanding",
+        "traditional": "出色"
+    },
+    {
+        "simplified": "出售",
+        "pinyin": "chū shòu",
+        "meaning": "offer for sale; sell",
+        "traditional": "出售"
+    },
+    {
+        "simplified": "出席",
+        "pinyin": "chūxí",
+        "meaning": "Attend",
+        "traditional": "出席"
+    },
+    {
+        "simplified": "处于",
+        "pinyin": "chǔ yú",
+        "meaning": "be in; be (in a certain condition)",
+        "traditional": "處於"
+    },
+    {
+        "simplified": "处",
+        "pinyin": "chǔ",
+        "meaning": "dwell; live; be in a position of",
+        "traditional": "處"
+    },
+    {
+        "simplified": "穿上",
+        "pinyin": "chuān shàng",
+        "meaning": "put on",
+        "traditional": "穿上"
+    },
+    {
+        "simplified": "传统",
+        "pinyin": "chuántǒng",
+        "meaning": "tradition",
+        "traditional": "傳統"
+    },
+    {
+        "simplified": "窗户",
+        "pinyin": "chuānghu",
+        "meaning": "Window",
+        "traditional": "窗戶"
+    },
+    {
+        "simplified": "窗台",
+        "pinyin": "chuāng tái",
+        "meaning": "windowsill; sill",
+        "traditional": "窗台"
+    },
+    {
+        "simplified": "窗子",
+        "pinyin": "chuāng zi",
+        "meaning": "window",
+        "traditional": "窗子"
+    },
+    {
+        "simplified": "春季",
+        "pinyin": "chūn jì",
+        "meaning": "spring; springtime",
+        "traditional": "春季"
+    },
+    {
+        "simplified": "纯",
+        "pinyin": "chún",
+        "meaning": "pure; unmixed; simple; skilful; practised",
+        "traditional": "純"
+    },
+    {
+        "simplified": "纯净水",
+        "pinyin": "chún jìng shuǐ",
+        "meaning": "pure water",
+        "traditional": "純淨水"
+    },
+    {
+        "simplified": "词汇",
+        "pinyin": "cíhuì",
+        "meaning": "vocabulary",
+        "traditional": "詞彙"
+    },
+    {
+        "simplified": "此",
+        "pinyin": "cǐ",
+        "meaning": "this; these; now; here",
+        "traditional": "此"
+    },
+    {
+        "simplified": "此外",
+        "pinyin": "cǐwài",
+        "meaning": "in addition",
+        "traditional": "此外"
+    },
+    {
+        "simplified": "次（形）",
+        "pinyin": "cì",
+        "meaning": "second-rate; secondary",
+        "traditional": "次（形）"
+    },
+    {
+        "simplified": "刺",
+        "pinyin": "cì",
+        "meaning": "thorn",
+        "traditional": "刺"
+    },
+    {
+        "simplified": "刺激",
+        "pinyin": "cìjī",
+        "meaning": "stimulate",
+        "traditional": "刺激"
+    },
+    {
+        "simplified": "从此",
+        "pinyin": "cóngcǐ",
+        "meaning": "from then on",
+        "traditional": "從此"
+    },
+    {
+        "simplified": "粗",
+        "pinyin": "cū",
+        "meaning": "wide; thick; coarse; rough; gruff; careless; rude",
+        "traditional": "粗"
+    },
+    {
+        "simplified": "粗心",
+        "pinyin": "cūxīn",
+        "meaning": "careless",
+        "traditional": "粗心"
+    },
+    {
+        "simplified": "促进",
+        "pinyin": "cùjìn",
+        "meaning": "Promote",
+        "traditional": "促進"
+    },
+    {
+        "simplified": "促使",
+        "pinyin": "cùshǐ",
+        "meaning": "Urge",
+        "traditional": "促使"
+    },
+    {
+        "simplified": "促销",
+        "pinyin": "cù xiāo",
+        "meaning": "promotion",
+        "traditional": "促銷"
+    },
+    {
+        "simplified": "措施",
+        "pinyin": "cuòshī",
+        "meaning": "Measures",
+        "traditional": "措施"
+    },
+    {
+        "simplified": "打",
+        "pinyin": "dǎ",
+        "meaning": "strike; hit; break; fight; build; beat",
+        "traditional": "打"
+    },
+    {
+        "simplified": "答案",
+        "pinyin": "dá’àn",
+        "meaning": "Answer",
+        "traditional": "答案"
+    },
+    {
+        "simplified": "打败",
+        "pinyin": "dǎ bài",
+        "meaning": "defeat; beat; be defeated",
+        "traditional": "打敗"
+    },
+    {
+        "simplified": "打雷",
+        "pinyin": "dǎ léi",
+        "meaning": "thunder",
+        "traditional": "打雷"
+    },
+    {
+        "simplified": "打扫",
+        "pinyin": "dǎsǎo",
+        "meaning": "Clean",
+        "traditional": "打掃"
+    },
+    {
+        "simplified": "打折",
+        "pinyin": "dǎzhé",
+        "meaning": "Discount",
+        "traditional": "打折"
+    },
+    {
+        "simplified": "打针",
+        "pinyin": "dǎzhēn",
+        "meaning": "To make an injection",
+        "traditional": "打針"
+    },
+    {
+        "simplified": "大巴",
+        "pinyin": "dà bā",
+        "meaning": "bus",
+        "traditional": "大巴"
+    },
+    {
+        "simplified": "大多",
+        "pinyin": "dà duō",
+        "meaning": "mostly; for the most part",
+        "traditional": "大多"
+    },
+    {
+        "simplified": "大方",
+        "pinyin": "dàfang",
+        "meaning": "generous",
+        "traditional": "大方"
+    },
+    {
+        "simplified": "大哥",
+        "pinyin": "dà gē",
+        "meaning": "big brother; elder brother",
+        "traditional": "大哥"
+    },
+    {
+        "simplified": "大规模",
+        "pinyin": "dà guī mó",
+        "meaning": "large-scale; extensive",
+        "traditional": "大規模"
+    },
+    {
+        "simplified": "大会",
+        "pinyin": "dà huì",
+        "meaning": "convention; general meeting; General Assembly",
+        "traditional": "大會"
+    },
+    {
+        "simplified": "大姐",
+        "pinyin": "dà jiě",
+        "meaning": "elder sister",
+        "traditional": "大姐"
+    },
+    {
+        "simplified": "大楼",
+        "pinyin": "dà lóu",
+        "meaning": "building; large building",
+        "traditional": "大樓"
+    },
+    {
+        "simplified": "大陆",
+        "pinyin": "dà lù",
+        "meaning": "continent; mainland",
+        "traditional": "大陸"
+    },
+    {
+        "simplified": "大妈",
+        "pinyin": "dà mā",
+        "meaning": "aunt; father’s elder brother’s wife",
+        "traditional": "大媽"
+    },
+    {
+        "simplified": "大型",
+        "pinyin": "dàxíng",
+        "meaning": "large",
+        "traditional": "大型"
+    },
+    {
+        "simplified": "大爷",
+        "pinyin": "dà ye",
+        "meaning": "uncle; father’s elder brother",
+        "traditional": "大爺"
+    },
+    {
+        "simplified": "大众",
+        "pinyin": "dà zhòng",
+        "meaning": "public; the masses; people",
+        "traditional": "大眾"
+    },
+    {
+        "simplified": "代替",
+        "pinyin": "dàitì",
+        "meaning": "replace",
+        "traditional": "代替"
+    },
+    {
+        "simplified": "待遇",
+        "pinyin": "dàiyù",
+        "meaning": "treatment",
+        "traditional": "待遇"
+    },
+    {
+        "simplified": "袋",
+        "pinyin": "dài",
+        "meaning": "bag; sack; pocket; pouch",
+        "traditional": "袋"
+    },
+    {
+        "simplified": "戴",
+        "pinyin": "dài",
+        "meaning": "wear",
+        "traditional": "戴"
+    },
+    {
+        "simplified": "担保",
+        "pinyin": "dānbǎo",
+        "meaning": "assure; hypothecate",
+        "traditional": "擔保"
+    },
+    {
+        "simplified": "担任",
+        "pinyin": "dānrèn",
+        "meaning": "To serve as",
+        "traditional": "擔任"
+    },
+    {
+        "simplified": "担心",
+        "pinyin": "dānxīn",
+        "meaning": "Worry",
+        "traditional": "擔心"
+    },
+    {
+        "simplified": "单",
+        "pinyin": "dān",
+        "meaning": "single; odd; unlined; thin; weak; only; alone",
+        "traditional": "單"
+    },
+    {
+        "simplified": "单纯",
+        "pinyin": "dānchún",
+        "meaning": "Simple",
+        "traditional": "單純"
+    },
+    {
+        "simplified": "单调",
+        "pinyin": "dāndiào",
+        "meaning": "monotonous",
+        "traditional": "單調"
+    },
+    {
+        "simplified": "单独",
+        "pinyin": "dāndú",
+        "meaning": "Alone",
+        "traditional": "單獨"
+    },
+    {
+        "simplified": "淡",
+        "pinyin": "dàn",
+        "meaning": "light",
+        "traditional": "淡"
+    },
+    {
+        "simplified": "导游",
+        "pinyin": "dǎoyóu",
+        "meaning": "Guide",
+        "traditional": "導遊"
+    },
+    {
+        "simplified": "导致",
+        "pinyin": "dǎozhì",
+        "meaning": "cause",
+        "traditional": "導致"
+    },
+    {
+        "simplified": "倒闭",
+        "pinyin": "dǎobì",
+        "meaning": "Collapse",
+        "traditional": "倒閉"
+    },
+    {
+        "simplified": "倒车",
+        "pinyin": "dǎo chē",
+        "meaning": "change trains or buses",
+        "traditional": "倒車"
+    },
+    {
+        "simplified": "倒车",
+        "pinyin": "dào chē",
+        "meaning": "back a car; reverse",
+        "traditional": "倒車"
+    },
+    {
+        "simplified": "得意",
+        "pinyin": "déyì",
+        "meaning": "Proud",
+        "traditional": "得意"
+    },
+    {
+        "simplified": "得",
+        "pinyin": "děi",
+        "meaning": "need; must; have to; be sure to",
+        "traditional": "得"
+    },
+    {
+        "simplified": "灯光",
+        "pinyin": "dēng guāng",
+        "meaning": "light; stage lighting",
+        "traditional": "燈光"
+    },
+    {
+        "simplified": "登",
+        "pinyin": "dēng",
+        "meaning": "ascend; mount; scale; step on; pedal; publish",
+        "traditional": "登"
+    },
+    {
+        "simplified": "登记",
+        "pinyin": "dēngjì",
+        "meaning": "register",
+        "traditional": "登記"
+    },
+    {
+        "simplified": "登录",
+        "pinyin": "dēnglù",
+        "meaning": "Sign in",
+        "traditional": "登錄"
+    },
+    {
+        "simplified": "登山",
+        "pinyin": "dēng shān",
+        "meaning": "mountaineer; mountain-climbing",
+        "traditional": "登山"
+    },
+    {
+        "simplified": "的确",
+        "pinyin": "díquè",
+        "meaning": "indeed; be certain to",
+        "traditional": "的確"
+    },
+    {
+        "simplified": "敌人",
+        "pinyin": "dírén",
+        "meaning": "Enemy",
+        "traditional": "敵人"
+    },
+    {
+        "simplified": "底",
+        "pinyin": "dǐ",
+        "meaning": "bottom",
+        "traditional": "底"
+    },
+    {
+        "simplified": "地方",
+        "pinyin": "dìfang",
+        "meaning": "local",
+        "traditional": "地方"
+    },
+    {
+        "simplified": "地面",
+        "pinyin": "dì miàn",
+        "meaning": "ground; floor; surface",
+        "traditional": "地面"
+    },
+    {
+        "simplified": "地位",
+        "pinyin": "dìwèi",
+        "meaning": "status",
+        "traditional": "地位"
+    },
+    {
+        "simplified": "地下",
+        "pinyin": "dì xià",
+        "meaning": "underground; subterranean; secret",
+        "traditional": "地下"
+    },
+    {
+        "simplified": "地址",
+        "pinyin": "dìzhǐ",
+        "meaning": "address",
+        "traditional": "地址"
+    },
+    {
+        "simplified": "典型",
+        "pinyin": "diǎnxíng",
+        "meaning": "typical",
+        "traditional": "典型"
+    },
+    {
+        "simplified": "点名",
+        "pinyin": "diǎn míng",
+        "meaning": "rollcall; mention sb. by name",
+        "traditional": "點名"
+    },
+    {
+        "simplified": "电灯",
+        "pinyin": "diàn dēng",
+        "meaning": "electric light",
+        "traditional": "電燈"
+    },
+    {
+        "simplified": "电动车",
+        "pinyin": "diàn dòng chē",
+        "meaning": "electric car",
+        "traditional": "電動車"
+    },
+    {
+        "simplified": "电梯",
+        "pinyin": "diàntī",
+        "meaning": "Elevator.",
+        "traditional": "電梯"
+    },
+    {
+        "simplified": "电源",
+        "pinyin": "diànyuán",
+        "meaning": "power supply",
+        "traditional": "電源"
+    },
+    {
+        "simplified": "顶",
+        "pinyin": "dǐng",
+        "meaning": "top",
+        "traditional": "頂"
+    },
+    {
+        "simplified": "定",
+        "pinyin": "dìng",
+        "meaning": "decide; fix; book; order; calm; stable",
+        "traditional": "定"
+    },
+    {
+        "simplified": "冬季",
+        "pinyin": "dōng jì",
+        "meaning": "winter",
+        "traditional": "冬季"
+    },
+    {
+        "simplified": "动画片",
+        "pinyin": "dònghuàpiàn",
+        "meaning": "Cartoon",
+        "traditional": "動畫片"
+    },
+    {
+        "simplified": "动摇",
+        "pinyin": "dòng yáo",
+        "meaning": "shake; vacillate; waver; be indecisive",
+        "traditional": "動搖"
+    },
+    {
+        "simplified": "豆腐",
+        "pinyin": "dòufu",
+        "meaning": "tofu",
+        "traditional": "豆腐"
+    },
+    {
+        "simplified": "独立",
+        "pinyin": "dúlì",
+        "meaning": "Independent",
+        "traditional": "獨立"
+    },
+    {
+        "simplified": "独特",
+        "pinyin": "dútè",
+        "meaning": "unique",
+        "traditional": "獨特"
+    },
+    {
+        "simplified": "独自",
+        "pinyin": "dú zì",
+        "meaning": "alone; by oneself; one’s own",
+        "traditional": "獨自"
+    },
+    {
+        "simplified": "堵",
+        "pinyin": "dǔ",
+        "meaning": "stop up; block up; stifled; suffocated; oppressed",
+        "traditional": "堵"
+    },
+    {
+        "simplified": "堵车",
+        "pinyin": "dǔchē",
+        "meaning": "Traffic jam",
+        "traditional": "堵車"
+    },
+    {
+        "simplified": "肚子",
+        "pinyin": "dùzi",
+        "meaning": "belly",
+        "traditional": "肚子"
+    },
+    {
+        "simplified": "度过",
+        "pinyin": "dùguò",
+        "meaning": "Spend",
+        "traditional": "度過"
+    },
+    {
+        "simplified": "锻炼",
+        "pinyin": "duànliàn",
+        "meaning": "Physical exercise",
+        "traditional": "鍛煉"
+    },
+    {
+        "simplified": "对比",
+        "pinyin": "duìbǐ",
+        "meaning": "Contrast",
+        "traditional": "對比"
+    },
+    {
+        "simplified": "对付",
+        "pinyin": "duìfu",
+        "meaning": "deal with",
+        "traditional": "對付"
+    },
+    {
+        "simplified": "对于",
+        "pinyin": "duìyú",
+        "meaning": "about",
+        "traditional": "對於"
+    },
+    {
+        "simplified": "多次",
+        "pinyin": "duō cì",
+        "meaning": "repeatedly; many a time",
+        "traditional": "多次"
+    },
+    {
+        "simplified": "多年",
+        "pinyin": "duō nián",
+        "meaning": "many years",
+        "traditional": "多年"
+    },
+    {
+        "simplified": "多样",
+        "pinyin": "duō yàng",
+        "meaning": "diversity",
+        "traditional": "多樣"
+    },
+    {
+        "simplified": "多种",
+        "pinyin": "duō zhǒng",
+        "meaning": "multiple; various; diversified; manifold",
+        "traditional": "多種"
+    },
+    {
+        "simplified": "恶心",
+        "pinyin": "ěxin",
+        "meaning": "disgusting",
+        "traditional": "噁心"
+    },
+    {
+        "simplified": "儿童",
+        "pinyin": "értóng",
+        "meaning": "children",
+        "traditional": "兒童"
+    },
+    {
+        "simplified": "而",
+        "pinyin": "ér",
+        "meaning": "and",
+        "traditional": "而"
+    },
+    {
+        "simplified": "而是",
+        "pinyin": "ér shì",
+        "meaning": "but",
+        "traditional": "而是"
+    },
+    {
+        "simplified": "耳机",
+        "pinyin": "ěr jī",
+        "meaning": "earphone; headphone; headset",
+        "traditional": "耳機"
+    },
+    {
+        "simplified": "二手",
+        "pinyin": "èr shǒu",
+        "meaning": "second hand",
+        "traditional": "二手"
+    },
+    {
+        "simplified": "发挥",
+        "pinyin": "fāhuī",
+        "meaning": "Develop",
+        "traditional": "發揮"
+    },
+    {
+        "simplified": "发票",
+        "pinyin": "fāpiào",
+        "meaning": "invoice",
+        "traditional": "發票"
+    },
+    {
+        "simplified": "发烧",
+        "pinyin": "fāshāo",
+        "meaning": "Have a fever",
+        "traditional": "發燒"
+    },
+    {
+        "simplified": "法",
+        "pinyin": "fǎ",
+        "meaning": "law; way; method; example; rule",
+        "traditional": "法"
+    },
+    {
+        "simplified": "法官",
+        "pinyin": "fǎ guān",
+        "meaning": "judge",
+        "traditional": "法官"
+    },
+    {
+        "simplified": "法律",
+        "pinyin": "fǎlǜ",
+        "meaning": "Law",
+        "traditional": "法律"
+    },
+    {
+        "simplified": "法院",
+        "pinyin": "fǎyuàn",
+        "meaning": "Court",
+        "traditional": "法院"
+    },
+    {
+        "simplified": "翻",
+        "pinyin": "fān",
+        "meaning": "Turn",
+        "traditional": "翻"
+    },
+    {
+        "simplified": "翻译",
+        "pinyin": "fānyì",
+        "meaning": "translate",
+        "traditional": "翻譯"
+    },
+    {
+        "simplified": "烦",
+        "pinyin": "fán",
+        "meaning": "bother; to bother",
+        "traditional": "煩"
+    },
+    {
+        "simplified": "反",
+        "pinyin": "fǎn",
+        "meaning": "turn over; rebel; on the contrary; instead",
+        "traditional": "反"
+    },
+    {
+        "simplified": "反而",
+        "pinyin": "fǎn’ér",
+        "meaning": "Instead",
+        "traditional": "反而"
+    },
+    {
+        "simplified": "反映",
+        "pinyin": "fǎnyìng",
+        "meaning": "reflect",
+        "traditional": "反映"
+    },
+    {
+        "simplified": "方",
+        "pinyin": "fāng",
+        "meaning": "square",
+        "traditional": "方"
+    },
+    {
+        "simplified": "方案",
+        "pinyin": "fāng’àn",
+        "meaning": "programme",
+        "traditional": "方案"
+    },
+    {
+        "simplified": "方针",
+        "pinyin": "fāngzhēn",
+        "meaning": "policy",
+        "traditional": "方針"
+    },
+    {
+        "simplified": "放松",
+        "pinyin": "fàngsōng",
+        "meaning": "Relax",
+        "traditional": "放鬆"
+    },
+    {
+        "simplified": "非",
+        "pinyin": "fēi",
+        "meaning": "wrong",
+        "traditional": "非"
+    },
+    {
+        "simplified": "肥",
+        "pinyin": "féi",
+        "meaning": "fat; fertile",
+        "traditional": "肥"
+    },
+    {
+        "simplified": "分布",
+        "pinyin": "fēnbù",
+        "meaning": "distribution",
+        "traditional": "分佈"
+    },
+    {
+        "simplified": "分散",
+        "pinyin": "fēnsàn",
+        "meaning": "Dispersed",
+        "traditional": "分散"
+    },
+    {
+        "simplified": "分手",
+        "pinyin": "fēnshǒu",
+        "meaning": "Break up",
+        "traditional": "分手"
+    },
+    {
+        "simplified": "分为",
+        "pinyin": "fēn wéi",
+        "meaning": "divide into",
+        "traditional": "分為"
+    },
+    {
+        "simplified": "…分之…",
+        "pinyin": "… fēn zhī …",
+        "meaning": "fractional number",
+        "traditional": "…分之…"
+    },
+    {
+        "simplified": "纷纷",
+        "pinyin": "fēnfēn",
+        "meaning": "one after another",
+        "traditional": "紛紛"
+    },
+    {
+        "simplified": "奋斗",
+        "pinyin": "fèndòu",
+        "meaning": "Struggle",
+        "traditional": "奮鬥"
+    },
+    {
+        "simplified": "风格",
+        "pinyin": "fēnggé",
+        "meaning": "style",
+        "traditional": "風格"
+    },
+    {
+        "simplified": "风景",
+        "pinyin": "fēngjǐng",
+        "meaning": "Scenery",
+        "traditional": "風景"
+    },
+    {
+        "simplified": "风俗",
+        "pinyin": "fēngsú",
+        "meaning": "Customs",
+        "traditional": "風俗"
+    },
+    {
+        "simplified": "封闭",
+        "pinyin": "fēngbì",
+        "meaning": "close",
+        "traditional": "封閉"
+    },
+    {
+        "simplified": "否则",
+        "pinyin": "fǒuzé",
+        "meaning": "otherwise",
+        "traditional": "否則"
+    },
+    {
+        "simplified": "夫妇",
+        "pinyin": "fūfù",
+        "meaning": "couple",
+        "traditional": "夫婦"
+    },
+    {
+        "simplified": "夫妻",
+        "pinyin": "fū qī",
+        "meaning": "man and wife",
+        "traditional": "夫妻"
+    },
+    {
+        "simplified": "夫人",
+        "pinyin": "fūrén",
+        "meaning": "Madam",
+        "traditional": "夫人"
+    },
+    {
+        "simplified": "符号",
+        "pinyin": "fúhào",
+        "meaning": "Symbol",
+        "traditional": "符號"
+    },
+    {
+        "simplified": "符合",
+        "pinyin": "fúhé",
+        "meaning": "accord with",
+        "traditional": "符合"
+    },
+    {
+        "simplified": "付出",
+        "pinyin": "fù chū",
+        "meaning": "pay out",
+        "traditional": "付出"
+    },
+    {
+        "simplified": "负担",
+        "pinyin": "fùdān",
+        "meaning": "burden",
+        "traditional": "負擔"
+    },
+    {
+        "simplified": "附近",
+        "pinyin": "fùjìn",
+        "meaning": "nearby",
+        "traditional": "附近"
+    },
+    {
+        "simplified": "复制",
+        "pinyin": "fùzhì",
+        "meaning": "copy",
+        "traditional": "複製"
+    },
+    {
+        "simplified": "改善",
+        "pinyin": "gǎishàn",
+        "meaning": "Improve",
+        "traditional": "改善"
+    },
+    {
+        "simplified": "改正",
+        "pinyin": "gǎizhèng",
+        "meaning": "correction",
+        "traditional": "改正"
+    },
+    {
+        "simplified": "盖",
+        "pinyin": "gài",
+        "meaning": "cover",
+        "traditional": "蓋"
+    },
+    {
+        "simplified": "概括",
+        "pinyin": "gàikuò",
+        "meaning": "Generalization",
+        "traditional": "概括"
+    },
+    {
+        "simplified": "感兴趣",
+        "pinyin": "gǎnxìngqù",
+        "meaning": "be intretested in",
+        "traditional": "感興趣"
+    },
+    {
+        "simplified": "高潮",
+        "pinyin": "gāocháo",
+        "meaning": "climax",
+        "traditional": "高潮"
+    },
+    {
+        "simplified": "高价",
+        "pinyin": "gāo jià",
+        "meaning": "high price",
+        "traditional": "高價"
+    },
+    {
+        "simplified": "高尚",
+        "pinyin": "gāoshàng",
+        "meaning": "noble",
+        "traditional": "高尚"
+    },
+    {
+        "simplified": "高铁",
+        "pinyin": "gāo tiě",
+        "meaning": "high-speed train; high-speed rail",
+        "traditional": "高鐵"
+    },
+    {
+        "simplified": "格外",
+        "pinyin": "géwài",
+        "meaning": "especially",
+        "traditional": "格外"
+    },
+    {
+        "simplified": "隔",
+        "pinyin": "gé",
+        "meaning": "partition; separate; divide",
+        "traditional": "隔"
+    },
+    {
+        "simplified": "隔开",
+        "pinyin": "gé kāi",
+        "meaning": "separate; space out; separation; partition",
+        "traditional": "隔開"
+    },
+    {
+        "simplified": "个别",
+        "pinyin": "gèbié",
+        "meaning": "individual",
+        "traditional": "個別"
+    },
+    {
+        "simplified": "个体",
+        "pinyin": "gètǐ",
+        "meaning": "individual",
+        "traditional": "個體"
+    },
+    {
+        "simplified": "各个",
+        "pinyin": "gè gè",
+        "meaning": "each",
+        "traditional": "各個"
+    },
+    {
+        "simplified": "根",
+        "pinyin": "gēn",
+        "meaning": "root",
+        "traditional": "根"
+    },
+    {
+        "simplified": "根据",
+        "pinyin": "gēnjù",
+        "meaning": "according to",
+        "traditional": "根據"
+    },
+    {
+        "simplified": "工程",
+        "pinyin": "gōng chéng",
+        "meaning": "engineering; project",
+        "traditional": "工程"
+    },
+    {
+        "simplified": "公元",
+        "pinyin": "gōngyuán",
+        "meaning": "A.D.",
+        "traditional": "公元"
+    },
+    {
+        "simplified": "供应",
+        "pinyin": "gōng yìng",
+        "meaning": "supply; provide",
+        "traditional": "供應"
+    },
+    {
+        "simplified": "共",
+        "pinyin": "gòng",
+        "meaning": "common; general; share; together; altogether",
+        "traditional": "共"
+    },
+    {
+        "simplified": "构成",
+        "pinyin": "gòuchéng",
+        "meaning": "constitute",
+        "traditional": "構成"
+    },
+    {
+        "simplified": "构造",
+        "pinyin": "gòu zào",
+        "meaning": "structure; construction",
+        "traditional": "構造"
+    },
+    {
+        "simplified": "购买",
+        "pinyin": "gòu mǎi",
+        "meaning": "buy; purchase",
+        "traditional": "購買"
+    },
+    {
+        "simplified": "购物",
+        "pinyin": "gòuwù",
+        "meaning": "Shopping",
+        "traditional": "購物"
+    },
+    {
+        "simplified": "骨头",
+        "pinyin": "gǔtou",
+        "meaning": "Bone",
+        "traditional": "骨頭"
+    },
+    {
+        "simplified": "固定",
+        "pinyin": "gùdìng",
+        "meaning": "fixed",
+        "traditional": "固定"
+    },
+    {
+        "simplified": "瓜",
+        "pinyin": "guā",
+        "meaning": "melon",
+        "traditional": "瓜"
+    },
+    {
+        "simplified": "怪（形、副）",
+        "pinyin": "guài",
+        "meaning": "strange; odd; bewildering; very; quite; rather",
+        "traditional": "怪（形、副）"
+    },
+    {
+        "simplified": "关（名）",
+        "pinyin": "guān",
+        "meaning": "pass; check point; customhouse; mechanism; barrier",
+        "traditional": "關（名）"
+    },
+    {
+        "simplified": "关闭",
+        "pinyin": "guānbì",
+        "meaning": "close; shut",
+        "traditional": "關閉"
+    },
+    {
+        "simplified": "关于",
+        "pinyin": "guānyú",
+        "meaning": "about",
+        "traditional": "關於"
+    },
+    {
+        "simplified": "官",
+        "pinyin": "guān",
+        "meaning": "officer",
+        "traditional": "官"
+    },
+    {
+        "simplified": "官方",
+        "pinyin": "guānfāng",
+        "meaning": "by the government official",
+        "traditional": "官方"
+    },
+    {
+        "simplified": "光临",
+        "pinyin": "guānglín",
+        "meaning": "presence",
+        "traditional": "光臨"
+    },
+    {
+        "simplified": "光盘",
+        "pinyin": "guāngpán",
+        "meaning": "CD",
+        "traditional": "光盤"
+    },
+    {
+        "simplified": "逛",
+        "pinyin": "guàng",
+        "meaning": "Stroll",
+        "traditional": "逛"
+    },
+    {
+        "simplified": "归",
+        "pinyin": "guī",
+        "meaning": "return; go back",
+        "traditional": "歸"
+    },
+    {
+        "simplified": "规律",
+        "pinyin": "guīlǜ",
+        "meaning": "Law",
+        "traditional": "規律"
+    },
+    {
+        "simplified": "规模",
+        "pinyin": "guīmó",
+        "meaning": "scale",
+        "traditional": "規模"
+    },
+    {
+        "simplified": "规则",
+        "pinyin": "guīzé",
+        "meaning": "rule",
+        "traditional": "規則"
+    },
+    {
+        "simplified": "果实",
+        "pinyin": "guǒshí",
+        "meaning": "fruit",
+        "traditional": "果實"
+    },
+    {
+        "simplified": "过分",
+        "pinyin": "guòfèn",
+        "meaning": "excessive",
+        "traditional": "過分"
+    },
+    {
+        "simplified": "海水",
+        "pinyin": "hǎi shuǐ",
+        "meaning": "seawater; brine; sea",
+        "traditional": "海水"
+    },
+    {
+        "simplified": "海鲜",
+        "pinyin": "hǎixiān",
+        "meaning": "seafood",
+        "traditional": "海鮮"
+    },
+    {
+        "simplified": "含",
+        "pinyin": "hán",
+        "meaning": "contain; cherish; nurse; keep",
+        "traditional": "含"
+    },
+    {
+        "simplified": "含量",
+        "pinyin": "hán liàng",
+        "meaning": "content",
+        "traditional": "含量"
+    },
+    {
+        "simplified": "含义",
+        "pinyin": "hányì",
+        "meaning": "signification; meanings",
+        "traditional": "含義"
+    },
+    {
+        "simplified": "含有",
+        "pinyin": "hán yǒu",
+        "meaning": "contain; have",
+        "traditional": "含有"
+    },
+    {
+        "simplified": "寒假",
+        "pinyin": "hánjià",
+        "meaning": "The winter vacation",
+        "traditional": "寒假"
+    },
+    {
+        "simplified": "寒冷",
+        "pinyin": "hán lěng",
+        "meaning": "cold; frigid; chill; frigidity",
+        "traditional": "寒冷"
+    },
+    {
+        "simplified": "行业",
+        "pinyin": "hángyè",
+        "meaning": "industry",
+        "traditional": "行業"
+    },
+    {
+        "simplified": "航班",
+        "pinyin": "hángbān",
+        "meaning": "flight",
+        "traditional": "航班"
+    },
+    {
+        "simplified": "航空",
+        "pinyin": "hángkōng",
+        "meaning": "aviation",
+        "traditional": "航空"
+    },
+    {
+        "simplified": "毫米",
+        "pinyin": "háomǐ",
+        "meaning": "millimeter",
+        "traditional": "毫米"
+    },
+    {
+        "simplified": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "traditional": "毫升"
+    },
+    {
+        "simplified": "好友",
+        "pinyin": "hǎo yǒu",
+        "meaning": "friend",
+        "traditional": "好友"
+    },
+    {
+        "simplified": "号码",
+        "pinyin": "hàomǎ",
+        "meaning": "number",
+        "traditional": "號碼"
+    },
+    {
+        "simplified": "好",
+        "pinyin": "hǎo",
+        "meaning": "good",
+        "traditional": "好"
+    },
+    {
+        "simplified": "合同",
+        "pinyin": "hétong",
+        "meaning": "contract",
+        "traditional": "合同"
+    },
+    {
+        "simplified": "黑暗",
+        "pinyin": "hēi àn",
+        "meaning": "dark; darkness; murk",
+        "traditional": "黑暗"
+    },
+    {
+        "simplified": "红包",
+        "pinyin": "hóng bāo",
+        "meaning": "red envelope; red packet",
+        "traditional": "紅包"
+    },
+    {
+        "simplified": "后头",
+        "pinyin": "hòu tou",
+        "meaning": "back",
+        "traditional": "後頭"
+    },
+    {
+        "simplified": "厚",
+        "pinyin": "hòu",
+        "meaning": "thick",
+        "traditional": "厚"
+    },
+    {
+        "simplified": "呼吸",
+        "pinyin": "hūxī",
+        "meaning": "breathing",
+        "traditional": "呼吸"
+    },
+    {
+        "simplified": "忽视",
+        "pinyin": "hūshì",
+        "meaning": "Ignore",
+        "traditional": "忽視"
+    },
+    {
+        "simplified": "户",
+        "pinyin": "hù",
+        "meaning": "household; family; door",
+        "traditional": "戶"
+    },
+    {
+        "simplified": "护士",
+        "pinyin": "hùshi",
+        "meaning": "Nurse",
+        "traditional": "護士"
+    },
+    {
+        "simplified": "花（形）",
+        "pinyin": "huā",
+        "meaning": "multicoloured; coloured; flowery",
+        "traditional": "花（形）"
+    },
+    {
+        "simplified": "划",
+        "pinyin": "huá",
+        "meaning": "paddle, row",
+        "traditional": "劃"
+    },
+    {
+        "simplified": "划",
+        "pinyin": "huà",
+        "meaning": "transfer, assign, differenciate",
+        "traditional": "劃"
+    },
+    {
+        "simplified": "怀念",
+        "pinyin": "huáiniàn",
+        "meaning": "Miss",
+        "traditional": "懷念"
+    },
+    {
+        "simplified": "怀疑",
+        "pinyin": "huáiyí",
+        "meaning": "doubt",
+        "traditional": "懷疑"
+    },
+    {
+        "simplified": "缓解",
+        "pinyin": "huǎnjiě",
+        "meaning": "relieve",
+        "traditional": "緩解"
+    },
+    {
+        "simplified": "黄瓜",
+        "pinyin": "huáng guā",
+        "meaning": "cucumber; cuke",
+        "traditional": "黃瓜"
+    },
+    {
+        "simplified": "黄金",
+        "pinyin": "huángjīn",
+        "meaning": "gold",
+        "traditional": "黃金"
+    },
+    {
+        "simplified": "回复",
+        "pinyin": "huí fù",
+        "meaning": "reply",
+        "traditional": "回复"
+    },
+    {
+        "simplified": "汇",
+        "pinyin": "huì",
+        "meaning": "remit; converge; collection; collected things",
+        "traditional": "匯"
+    },
+    {
+        "simplified": "汇报",
+        "pinyin": "huìbào",
+        "meaning": "report",
+        "traditional": "匯報"
+    },
+    {
+        "simplified": "汇率",
+        "pinyin": "huìlǜ",
+        "meaning": "exchange rate",
+        "traditional": "匯率"
+    },
+    {
+        "simplified": "婚礼",
+        "pinyin": "hūnlǐ",
+        "meaning": "wedding",
+        "traditional": "婚禮"
+    },
+    {
+        "simplified": "火（形）",
+        "pinyin": "huǒ",
+        "meaning": "fiery; flaming; urgent",
+        "traditional": "火（形）"
+    },
+    {
+        "simplified": "伙",
+        "pinyin": "huǒ",
+        "meaning": "partner; partnership",
+        "traditional": "夥"
+    },
+    {
+        "simplified": "伙伴",
+        "pinyin": "huǒbàn",
+        "meaning": "Partner",
+        "traditional": "夥伴"
+    },
+    {
+        "simplified": "或许",
+        "pinyin": "huòxǔ",
+        "meaning": "maybe; probably",
+        "traditional": "或許"
+    },
+    {
+        "simplified": "货",
+        "pinyin": "huò",
+        "meaning": "goods; commodity; money",
+        "traditional": "貨"
+    },
+    {
+        "simplified": "获",
+        "pinyin": "huò",
+        "meaning": "obtain; win; reap; capture; catch",
+        "traditional": "獲"
+    },
+    {
+        "simplified": "获得",
+        "pinyin": "huòdé",
+        "meaning": "Get",
+        "traditional": "獲得"
+    },
+    {
+        "simplified": "获奖",
+        "pinyin": "huò jiǎng",
+        "meaning": "win a prize; receive an award",
+        "traditional": "獲獎"
+    },
+    {
+        "simplified": "获取",
+        "pinyin": "huò qǔ",
+        "meaning": "gain; obtain",
+        "traditional": "獲取"
+    },
+    {
+        "simplified": "几乎",
+        "pinyin": "jīhū",
+        "meaning": "almost",
+        "traditional": "幾乎"
+    },
+    {
+        "simplified": "机构",
+        "pinyin": "jīgòu",
+        "meaning": "mechanism",
+        "traditional": "機構"
+    },
+    {
+        "simplified": "机遇",
+        "pinyin": "jīyù",
+        "meaning": "Opportunity",
+        "traditional": "機遇"
+    },
+    {
+        "simplified": "积累",
+        "pinyin": "jīlěi",
+        "meaning": "accumulation",
+        "traditional": "積累"
+    },
+    {
+        "simplified": "激动",
+        "pinyin": "jīdòng",
+        "meaning": "Excited",
+        "traditional": "激動"
+    },
+    {
+        "simplified": "激烈",
+        "pinyin": "jīliè",
+        "meaning": "fierce",
+        "traditional": "激烈"
+    },
+    {
+        "simplified": "及格",
+        "pinyin": "jígé",
+        "meaning": "pass",
+        "traditional": "及格"
+    },
+    {
+        "simplified": "极",
+        "pinyin": "jí",
+        "meaning": "extremely",
+        "traditional": "極"
+    },
+    {
+        "simplified": "极其",
+        "pinyin": "jíqí",
+        "meaning": "extremely",
+        "traditional": "極其"
+    },
+    {
+        "simplified": "即将",
+        "pinyin": "jíjiāng",
+        "meaning": "soon",
+        "traditional": "即將"
+    },
+    {
+        "simplified": "急忙",
+        "pinyin": "jímáng",
+        "meaning": "Hastily",
+        "traditional": "急忙"
+    },
+    {
+        "simplified": "集合",
+        "pinyin": "jíhé",
+        "meaning": "aggregate",
+        "traditional": "集合"
+    },
+    {
+        "simplified": "记载",
+        "pinyin": "jìzǎi",
+        "meaning": "Record",
+        "traditional": "記載"
+    },
+    {
+        "simplified": "纪律",
+        "pinyin": "jìlǜ",
+        "meaning": "discipline",
+        "traditional": "紀律"
+    },
+    {
+        "simplified": "技巧",
+        "pinyin": "jìqiǎo",
+        "meaning": "Skill",
+        "traditional": "技巧"
+    },
+    {
+        "simplified": "系",
+        "pinyin": "xì",
+        "meaning": "department",
+        "traditional": "系"
+    },
+    {
+        "simplified": "季",
+        "pinyin": "jì",
+        "meaning": "season; period",
+        "traditional": "季"
+    },
+    {
+        "simplified": "季度",
+        "pinyin": "jìdù",
+        "meaning": "quarter (of a year)",
+        "traditional": "季度"
+    },
+    {
+        "simplified": "季节",
+        "pinyin": "jìjié",
+        "meaning": "Season",
+        "traditional": "季節"
+    },
+    {
+        "simplified": "既",
+        "pinyin": "jì",
+        "meaning": "already; since; as",
+        "traditional": "既"
+    },
+    {
+        "simplified": "既然",
+        "pinyin": "jìrán",
+        "meaning": "Since",
+        "traditional": "既然"
+    },
+    {
+        "simplified": "寄",
+        "pinyin": "jì",
+        "meaning": "send",
+        "traditional": "寄"
+    },
+    {
+        "simplified": "加班",
+        "pinyin": "jiābān",
+        "meaning": "overtime work",
+        "traditional": "加班"
+    },
+    {
+        "simplified": "加入",
+        "pinyin": "jiā rù",
+        "meaning": "add; mix; join; become a member",
+        "traditional": "加入"
+    },
+    {
+        "simplified": "加油站",
+        "pinyin": "jiāyóuzhàn",
+        "meaning": "Gas station",
+        "traditional": "加油站"
+    },
+    {
+        "simplified": "家务",
+        "pinyin": "jiāwù",
+        "meaning": "Housework",
+        "traditional": "家務"
+    },
+    {
+        "simplified": "假如",
+        "pinyin": "jiǎrú",
+        "meaning": "If",
+        "traditional": "假如"
+    },
+    {
+        "simplified": "坚固",
+        "pinyin": "jiāngù",
+        "meaning": "strong",
+        "traditional": "堅固"
+    },
+    {
+        "simplified": "检测",
+        "pinyin": "jiǎn cè",
+        "meaning": "detect; test",
+        "traditional": "檢測"
+    },
+    {
+        "simplified": "减",
+        "pinyin": "jiǎn",
+        "meaning": "subtract; reduce; decrease; cut; minus",
+        "traditional": "減"
+    },
+    {
+        "simplified": "减肥",
+        "pinyin": "jiǎnféi",
+        "meaning": "Reduce weight",
+        "traditional": "減肥"
+    },
+    {
+        "simplified": "减少",
+        "pinyin": "jiǎnshǎo",
+        "meaning": "reduce",
+        "traditional": "減少"
+    },
+    {
+        "simplified": "简历",
+        "pinyin": "jiǎnlì",
+        "meaning": "resume",
+        "traditional": "簡歷"
+    },
+    {
+        "simplified": "健身",
+        "pinyin": "jiànshēn",
+        "meaning": "workout",
+        "traditional": "健身"
+    },
+    {
+        "simplified": "渐渐",
+        "pinyin": "jiàn jiàn",
+        "meaning": "gradually; step by step",
+        "traditional": "漸漸"
+    },
+    {
+        "simplified": "江",
+        "pinyin": "jiāng",
+        "meaning": "river",
+        "traditional": "江"
+    },
+    {
+        "simplified": "讲究",
+        "pinyin": "jiǎngjiu",
+        "meaning": "Pay attention to, stress",
+        "traditional": "講究"
+    },
+    {
+        "simplified": "讲座",
+        "pinyin": "jiǎngzuò",
+        "meaning": "Lecture",
+        "traditional": "講座"
+    },
+    {
+        "simplified": "奖",
+        "pinyin": "jiǎng",
+        "meaning": "award; prize; reward",
+        "traditional": "獎"
+    },
+    {
+        "simplified": "奖金",
+        "pinyin": "jiǎngjīn",
+        "meaning": "bonus",
+        "traditional": "獎金"
+    },
+    {
+        "simplified": "奖学金",
+        "pinyin": "jiǎng xué jīn",
+        "meaning": "scholarship; fellowship",
+        "traditional": "獎學金"
+    },
+    {
+        "simplified": "降",
+        "pinyin": "jiàng",
+        "meaning": "fall; drop; descend; come down; lower",
+        "traditional": "降"
+    },
+    {
+        "simplified": "降低",
+        "pinyin": "jiàngdī",
+        "meaning": "reduce",
+        "traditional": "降低"
+    },
+    {
+        "simplified": "降价",
+        "pinyin": "jiàng jià",
+        "meaning": "cut price; reduce price",
+        "traditional": "降價"
+    },
+    {
+        "simplified": "降落",
+        "pinyin": "jiàngluò",
+        "meaning": "land",
+        "traditional": "降落"
+    },
+    {
+        "simplified": "降温",
+        "pinyin": "jiàng wēn",
+        "meaning": "lower the temperature; drop in temperature",
+        "traditional": "降溫"
+    },
+    {
+        "simplified": "交换",
+        "pinyin": "jiāohuàn",
+        "meaning": "exchange",
+        "traditional": "交換"
+    },
+    {
+        "simplified": "交际",
+        "pinyin": "jiāojì",
+        "meaning": "communication",
+        "traditional": "交際"
+    },
+    {
+        "simplified": "教授",
+        "pinyin": "jiàoshòu",
+        "meaning": "professor",
+        "traditional": "教授"
+    },
+    {
+        "simplified": "教训",
+        "pinyin": "jiàoxùn",
+        "meaning": "lesson",
+        "traditional": "教訓"
+    },
+    {
+        "simplified": "阶段",
+        "pinyin": "jiēduàn",
+        "meaning": "stage",
+        "traditional": "階段"
+    },
+    {
+        "simplified": "街道",
+        "pinyin": "jiēdào",
+        "meaning": "Street",
+        "traditional": "街道"
+    },
+    {
+        "simplified": "节省",
+        "pinyin": "jiéshěng",
+        "meaning": "save",
+        "traditional": "節省"
+    },
+    {
+        "simplified": "结",
+        "pinyin": "jié",
+        "meaning": "bear; form; knit; knot",
+        "traditional": "結"
+    },
+    {
+        "simplified": "结构",
+        "pinyin": "jiégòu",
+        "meaning": "structure",
+        "traditional": "結構"
+    },
+    {
+        "simplified": "结论",
+        "pinyin": "jiélùn",
+        "meaning": "conclusion",
+        "traditional": "結論"
+    },
+    {
+        "simplified": "姐妹",
+        "pinyin": "jiě mèi",
+        "meaning": "sisters",
+        "traditional": "姐妹"
+    },
+    {
+        "simplified": "解释",
+        "pinyin": "jiěshì",
+        "meaning": "explain",
+        "traditional": "解釋"
+    },
+    {
+        "simplified": "尽快",
+        "pinyin": "jǐnkuài",
+        "meaning": "as soon as possible",
+        "traditional": "盡快"
+    },
+    {
+        "simplified": "紧密",
+        "pinyin": "jǐn mì",
+        "meaning": "close; inseparable",
+        "traditional": "緊密"
+    },
+    {
+        "simplified": "尽力",
+        "pinyin": "jìnlì",
+        "meaning": "Try the best",
+        "traditional": "盡力"
+    },
+    {
+        "simplified": "进口",
+        "pinyin": "jìnkǒu",
+        "meaning": "Imported",
+        "traditional": "進口"
+    },
+    {
+        "simplified": "近代",
+        "pinyin": "jìndài",
+        "meaning": "Modern",
+        "traditional": "近代"
+    },
+    {
+        "simplified": "禁止",
+        "pinyin": "jìnzhǐ",
+        "meaning": "prohibit",
+        "traditional": "禁止"
+    },
+    {
+        "simplified": "经典",
+        "pinyin": "jīngdiǎn",
+        "meaning": "classics; scriptures",
+        "traditional": "經典"
+    },
+    {
+        "simplified": "精力",
+        "pinyin": "jīnglì",
+        "meaning": "energy",
+        "traditional": "精力"
+    },
+    {
+        "simplified": "竟然",
+        "pinyin": "jìngrán",
+        "meaning": "Unexpectedly",
+        "traditional": "竟然"
+    },
+    {
+        "simplified": "镜头",
+        "pinyin": "jìngtóu",
+        "meaning": "Camera lens",
+        "traditional": "鏡頭"
+    },
+    {
+        "simplified": "镜子",
+        "pinyin": "jìngzi",
+        "meaning": "Mirror",
+        "traditional": "鏡子"
+    },
+    {
+        "simplified": "究竟",
+        "pinyin": "jiūjìng",
+        "meaning": "exactly",
+        "traditional": "究竟"
+    },
+    {
+        "simplified": "酒吧",
+        "pinyin": "jiǔbā",
+        "meaning": "Bar",
+        "traditional": "酒吧"
+    },
+    {
+        "simplified": "居民",
+        "pinyin": "jūmín",
+        "meaning": "residents",
+        "traditional": "居民"
+    },
+    {
+        "simplified": "居住",
+        "pinyin": "jūzhù",
+        "meaning": "live",
+        "traditional": "居住"
+    },
+    {
+        "simplified": "局（名）",
+        "pinyin": "jú",
+        "meaning": "bureau; part; portion; innings; gathering",
+        "traditional": "局（名）"
+    },
+    {
+        "simplified": "巨大",
+        "pinyin": "jùdà",
+        "meaning": "huge",
+        "traditional": "巨大"
+    },
+    {
+        "simplified": "具备",
+        "pinyin": "jùbèi",
+        "meaning": "Have, possess",
+        "traditional": "具備"
+    },
+    {
+        "simplified": "距离",
+        "pinyin": "jùlí",
+        "meaning": "distance",
+        "traditional": "距離"
+    },
+    {
+        "simplified": "聚",
+        "pinyin": "jù",
+        "meaning": "assemble; gather; get together",
+        "traditional": "聚"
+    },
+    {
+        "simplified": "聚会",
+        "pinyin": "jùhuì",
+        "meaning": "Party",
+        "traditional": "聚會"
+    },
+    {
+        "simplified": "卷",
+        "pinyin": "juǎn",
+        "meaning": "roll, curly, reel",
+        "traditional": "卷"
+    },
+    {
+        "simplified": "卷",
+        "pinyin": "juàn",
+        "meaning": "volume; file",
+        "traditional": "卷"
+    },
+    {
+        "simplified": "角色",
+        "pinyin": "juésè",
+        "meaning": "role",
+        "traditional": "角色"
+    },
+    {
+        "simplified": "开花",
+        "pinyin": "kāi huā",
+        "meaning": "flower; bloom; blossom",
+        "traditional": "開花"
+    },
+    {
+        "simplified": "开水",
+        "pinyin": "kāishuǐ",
+        "meaning": "Boiling water",
+        "traditional": "開水"
+    },
+    {
+        "simplified": "看不起",
+        "pinyin": "kànbuqǐ",
+        "meaning": "Despise",
+        "traditional": "看不起"
+    },
+    {
+        "simplified": "看来",
+        "pinyin": "kàn lái",
+        "meaning": "it seems; it appears",
+        "traditional": "看來"
+    },
+    {
+        "simplified": "看望",
+        "pinyin": "kànwàng",
+        "meaning": "visit",
+        "traditional": "看望"
+    },
+    {
+        "simplified": "考察",
+        "pinyin": "kǎochá",
+        "meaning": "Investigate",
+        "traditional": "考察"
+    },
+    {
+        "simplified": "考虑",
+        "pinyin": "kǎolǜ",
+        "meaning": "Consider",
+        "traditional": "考慮"
+    },
+    {
+        "simplified": "棵",
+        "pinyin": "kē",
+        "meaning": "Tree (measure word)",
+        "traditional": "棵"
+    },
+    {
+        "simplified": "可见",
+        "pinyin": "kějiàn",
+        "meaning": "So",
+        "traditional": "可見"
+    },
+    {
+        "simplified": "空间",
+        "pinyin": "kōngjiān",
+        "meaning": "space",
+        "traditional": "空間"
+    },
+    {
+        "simplified": "空",
+        "pinyin": "kōng",
+        "meaning": "empty",
+        "traditional": "空"
+    },
+    {
+        "simplified": "口袋",
+        "pinyin": "kǒu dài",
+        "meaning": "pocket",
+        "traditional": "口袋"
+    },
+    {
+        "simplified": "口语",
+        "pinyin": "kǒu yǔ",
+        "meaning": "spoken language",
+        "traditional": "口語"
+    },
+    {
+        "simplified": "苦",
+        "pinyin": "kǔ",
+        "meaning": "bitter",
+        "traditional": "苦"
+    },
+    {
+        "simplified": "会计",
+        "pinyin": "kuàijì",
+        "meaning": "accountant",
+        "traditional": "會計"
+    },
+    {
+        "simplified": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "traditional": "快遞"
+    },
+    {
+        "simplified": "宽",
+        "pinyin": "kuān",
+        "meaning": "wide",
+        "traditional": "寬"
+    },
+    {
+        "simplified": "宽广",
+        "pinyin": "kuān guǎng",
+        "meaning": "broad; vast; extensive",
+        "traditional": "寬廣"
+    },
+    {
+        "simplified": "矿泉水",
+        "pinyin": "kuàngquánshuǐ",
+        "meaning": "Mineral water",
+        "traditional": "礦泉水"
+    },
+    {
+        "simplified": "扩大",
+        "pinyin": "kuòdà",
+        "meaning": "Expand",
+        "traditional": "擴大"
+    },
+    {
+        "simplified": "扩展",
+        "pinyin": "kuò zhǎn",
+        "meaning": "expand; extend; spread; develop",
+        "traditional": "擴展"
+    },
+    {
+        "simplified": "括号",
+        "pinyin": "kuò hào",
+        "meaning": "brackets; parentheses",
+        "traditional": "括號"
+    },
+    {
+        "simplified": "垃圾",
+        "pinyin": "lā jī",
+        "meaning": "rubbish; garbage; refuse; waste",
+        "traditional": "垃圾"
+    },
+    {
+        "simplified": "拉开",
+        "pinyin": "lā kāi",
+        "meaning": "pull open; undraw; zip",
+        "traditional": "拉開"
+    },
+    {
+        "simplified": "辣",
+        "pinyin": "là",
+        "meaning": "hot, spicy",
+        "traditional": "辣"
+    },
+    {
+        "simplified": "来不及",
+        "pinyin": "láibují",
+        "meaning": "There’s not enough time",
+        "traditional": "來不及"
+    },
+    {
+        "simplified": "来得及",
+        "pinyin": "láidejí",
+        "meaning": "In time",
+        "traditional": "來得及"
+    },
+    {
+        "simplified": "来源",
+        "pinyin": "láiyuán",
+        "meaning": "source",
+        "traditional": "來源"
+    },
+    {
+        "simplified": "老公",
+        "pinyin": "lǎo gōng",
+        "meaning": "husband",
+        "traditional": "老公"
+    },
+    {
+        "simplified": "老家",
+        "pinyin": "lǎo jiā",
+        "meaning": "hometown; home state",
+        "traditional": "老家"
+    },
+    {
+        "simplified": "老婆",
+        "pinyin": "lǎopó",
+        "meaning": "wife",
+        "traditional": "老婆"
+    },
+    {
+        "simplified": "老实",
+        "pinyin": "lǎoshi",
+        "meaning": "honest",
+        "traditional": "老實"
+    },
+    {
+        "simplified": "乐趣",
+        "pinyin": "lèqù",
+        "meaning": "pleasure",
+        "traditional": "樂趣"
+    },
+    {
+        "simplified": "泪",
+        "pinyin": "lèi",
+        "meaning": "tear; teardrop",
+        "traditional": "淚"
+    },
+    {
+        "simplified": "泪水",
+        "pinyin": "lèi shuǐ",
+        "meaning": "tear; teardrop",
+        "traditional": "淚水"
+    },
+    {
+        "simplified": "类型",
+        "pinyin": "lèixíng",
+        "meaning": "type",
+        "traditional": "類型"
+    },
+    {
+        "simplified": "冷静",
+        "pinyin": "lěngjìng",
+        "meaning": "calm down",
+        "traditional": "冷靜"
+    },
+    {
+        "simplified": "厘米",
+        "pinyin": "límǐ",
+        "meaning": "centimeter",
+        "traditional": "厘米"
+    },
+    {
+        "simplified": "离不开",
+        "pinyin": "lí bù kāi",
+        "meaning": "can’t do without",
+        "traditional": "離不開"
+    },
+    {
+        "simplified": "力气",
+        "pinyin": "lìqi",
+        "meaning": "Strength",
+        "traditional": "力氣"
+    },
+    {
+        "simplified": "历史",
+        "pinyin": "lìshǐ",
+        "meaning": "History",
+        "traditional": "歷史"
+    },
+    {
+        "simplified": "立即",
+        "pinyin": "lìjí",
+        "meaning": "immediately",
+        "traditional": "立即"
+    },
+    {
+        "simplified": "利息",
+        "pinyin": "lìxī",
+        "meaning": "accrual; interest",
+        "traditional": "利息"
+    },
+    {
+        "simplified": "利益",
+        "pinyin": "lìyì",
+        "meaning": "interest",
+        "traditional": "利益"
+    },
+    {
+        "simplified": "俩",
+        "pinyin": "liǎ",
+        "meaning": "Two",
+        "traditional": "倆"
+    },
+    {
+        "simplified": "良好",
+        "pinyin": "liánghǎo",
+        "meaning": "good",
+        "traditional": "良好"
+    },
+    {
+        "simplified": "量",
+        "pinyin": "liáng",
+        "meaning": "measure; estimate; amount",
+        "traditional": "量"
+    },
+    {
+        "simplified": "粮食",
+        "pinyin": "liángshi",
+        "meaning": "foodstuff",
+        "traditional": "糧食"
+    },
+    {
+        "simplified": "两边",
+        "pinyin": "liǎng biān",
+        "meaning": "both sides",
+        "traditional": "兩邊"
+    },
+    {
+        "simplified": "疗养",
+        "pinyin": "liáo yǎng",
+        "meaning": "recuperate; convalesce",
+        "traditional": "療養"
+    },
+    {
+        "simplified": "了不起",
+        "pinyin": "liǎobuqǐ",
+        "meaning": "Amazing",
+        "traditional": "了不起"
+    },
+    {
+        "simplified": "了解",
+        "pinyin": "liǎojiě",
+        "meaning": "understand",
+        "traditional": "了解"
+    },
+    {
+        "simplified": "列",
+        "pinyin": "liè",
+        "meaning": "arrange; line up; list",
+        "traditional": "列"
+    },
+    {
+        "simplified": "列车",
+        "pinyin": "lièchē",
+        "meaning": "train",
+        "traditional": "列車"
+    },
+    {
+        "simplified": "列入",
+        "pinyin": "liè rù",
+        "meaning": "included in",
+        "traditional": "列入"
+    },
+    {
+        "simplified": "列为",
+        "pinyin": "liè wéi",
+        "meaning": "be classified as; listed as",
+        "traditional": "列為"
+    },
+    {
+        "simplified": "临时",
+        "pinyin": "línshí",
+        "meaning": "temporary",
+        "traditional": "臨時"
+    },
+    {
+        "simplified": "零食",
+        "pinyin": "língshí",
+        "meaning": "snacks",
+        "traditional": "零食"
+    },
+    {
+        "simplified": "流传",
+        "pinyin": "liúchuán",
+        "meaning": "spread",
+        "traditional": "流傳"
+    },
+    {
+        "simplified": "楼梯",
+        "pinyin": "lóu tī",
+        "meaning": "stairs; staircase; stairway",
+        "traditional": "樓梯"
+    },
+    {
+        "simplified": "陆地",
+        "pinyin": "lùdì",
+        "meaning": "land",
+        "traditional": "陸地"
+    },
+    {
+        "simplified": "陆续",
+        "pinyin": "lùxù",
+        "meaning": "One after another",
+        "traditional": "陸續"
+    },
+    {
+        "simplified": "录取",
+        "pinyin": "lùqǔ",
+        "meaning": "matriculate",
+        "traditional": "錄取"
+    },
+    {
+        "simplified": "律师",
+        "pinyin": "lǜshī",
+        "meaning": "Lawyer",
+        "traditional": "律師"
+    },
+    {
+        "simplified": "轮",
+        "pinyin": "lún",
+        "meaning": "wheel; ring; take turns",
+        "traditional": "輪"
+    },
+    {
+        "simplified": "轮船",
+        "pinyin": "lúnchuán",
+        "meaning": "Ship",
+        "traditional": "輪船"
+    },
+    {
+        "simplified": "轮椅",
+        "pinyin": "lún yǐ",
+        "meaning": "wheelchair",
+        "traditional": "輪椅"
+    },
+    {
+        "simplified": "轮子",
+        "pinyin": "lún zi",
+        "meaning": "wheel",
+        "traditional": "輪子"
+    },
+    {
+        "simplified": "论文",
+        "pinyin": "lùnwén",
+        "meaning": "paper",
+        "traditional": "論文"
+    },
+    {
+        "simplified": "落",
+        "pinyin": "luò",
+        "meaning": "fall; drop; go down; set; decline; drop behind",
+        "traditional": "落"
+    },
+    {
+        "simplified": "毛巾",
+        "pinyin": "máojīn",
+        "meaning": "Towel",
+        "traditional": "毛巾"
+    },
+    {
+        "simplified": "毛衣",
+        "pinyin": "máo yī",
+        "meaning": "sweater; wool sweater",
+        "traditional": "毛衣"
+    },
+    {
+        "simplified": "帽子",
+        "pinyin": "màozi",
+        "meaning": "Hat",
+        "traditional": "帽子"
+    },
+    {
+        "simplified": "没错",
+        "pinyin": "méi cuò",
+        "meaning": "that’s right",
+        "traditional": "沒錯"
+    },
+    {
+        "simplified": "没法儿",
+        "pinyin": "méi fǎr",
+        "meaning": "can not; no way",
+        "traditional": "沒法兒"
+    },
+    {
+        "simplified": "没想到",
+        "pinyin": "méi xiǎng dào",
+        "meaning": "didn’t expect",
+        "traditional": "沒想到"
+    },
+    {
+        "simplified": "美金",
+        "pinyin": "měi jīn",
+        "meaning": "USD; dollar",
+        "traditional": "美金"
+    },
+    {
+        "simplified": "美女",
+        "pinyin": "měi nǚ",
+        "meaning": "belle ; beauty; beautiful woman",
+        "traditional": "美女"
+    },
+    {
+        "simplified": "梦",
+        "pinyin": "mèng",
+        "meaning": "dream",
+        "traditional": "夢"
+    },
+    {
+        "simplified": "梦见",
+        "pinyin": "mèng jiàn",
+        "meaning": "see in a dream; dream about; dream",
+        "traditional": "夢見"
+    },
+    {
+        "simplified": "梦想",
+        "pinyin": "mèngxiǎng",
+        "meaning": "Dream",
+        "traditional": "夢想"
+    },
+    {
+        "simplified": "秘密",
+        "pinyin": "mìmì",
+        "meaning": "Secret",
+        "traditional": "秘密"
+    },
+    {
+        "simplified": "秘书",
+        "pinyin": "mìshū",
+        "meaning": "secretary",
+        "traditional": "秘書"
+    },
+    {
+        "simplified": "密",
+        "pinyin": "mì",
+        "meaning": "thick; secret; close; dense",
+        "traditional": "密"
+    },
+    {
+        "simplified": "密码",
+        "pinyin": "mìmǎ",
+        "meaning": "Password",
+        "traditional": "密碼"
+    },
+    {
+        "simplified": "密切",
+        "pinyin": "mìqiè",
+        "meaning": "close",
+        "traditional": "密切"
+    },
+    {
+        "simplified": "免费",
+        "pinyin": "miǎnfèi",
+        "meaning": "Free of charge",
+        "traditional": "免費"
+    },
+    {
+        "simplified": "面临",
+        "pinyin": "miànlín",
+        "meaning": "face",
+        "traditional": "面臨"
+    },
+    {
+        "simplified": "面试",
+        "pinyin": "miàn shì",
+        "meaning": "interview; audition",
+        "traditional": "面試"
+    },
+    {
+        "simplified": "描述",
+        "pinyin": "miáo shù",
+        "meaning": "describe; depict; description",
+        "traditional": "描述"
+    },
+    {
+        "simplified": "描写",
+        "pinyin": "miáoxiě",
+        "meaning": "describe",
+        "traditional": "描寫"
+    },
+    {
+        "simplified": "名牌儿",
+        "pinyin": "míng páir",
+        "meaning": "famous brand",
+        "traditional": "名牌兒"
+    },
+    {
+        "simplified": "名片",
+        "pinyin": "míngpiàn",
+        "meaning": "business card",
+        "traditional": "名片"
+    },
+    {
+        "simplified": "名人",
+        "pinyin": "míng rén",
+        "meaning": "celebrity; famous person",
+        "traditional": "名人"
+    },
+    {
+        "simplified": "摸",
+        "pinyin": "mō",
+        "meaning": "feel",
+        "traditional": "摸"
+    },
+    {
+        "simplified": "模特儿",
+        "pinyin": "mó tèr",
+        "meaning": "model",
+        "traditional": "模特兒"
+    },
+    {
+        "simplified": "模型",
+        "pinyin": "móxíng",
+        "meaning": "Model",
+        "traditional": "模型"
+    },
+    {
+        "simplified": "末",
+        "pinyin": "mò",
+        "meaning": "end; last; final stage",
+        "traditional": "末"
+    },
+    {
+        "simplified": "默默",
+        "pinyin": "mòmò",
+        "meaning": "silently",
+        "traditional": "默默"
+    },
+    {
+        "simplified": "哪怕",
+        "pinyin": "nǎpà",
+        "meaning": "even if",
+        "traditional": "哪怕"
+    },
+    {
+        "simplified": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which",
+        "traditional": "哪"
+    },
+    {
+        "simplified": "男女",
+        "pinyin": "nán nǚ",
+        "meaning": "men and women; male and female",
+        "traditional": "男女"
+    },
+    {
+        "simplified": "男士",
+        "pinyin": "nán shì",
+        "meaning": "man",
+        "traditional": "男士"
+    },
+    {
+        "simplified": "难免",
+        "pinyin": "nánmiǎn",
+        "meaning": "Unavoidable",
+        "traditional": "難免"
+    },
+    {
+        "simplified": "脑袋",
+        "pinyin": "nǎodai",
+        "meaning": "head",
+        "traditional": "腦袋"
+    },
+    {
+        "simplified": "闹",
+        "pinyin": "nào",
+        "meaning": "noisy; make a noise; suffer; be troubled",
+        "traditional": "鬧"
+    },
+    {
+        "simplified": "闹钟",
+        "pinyin": "nào zhōng",
+        "meaning": "alarm clock",
+        "traditional": "鬧鐘"
+    },
+    {
+        "simplified": "内部",
+        "pinyin": "nèibù",
+        "meaning": "interior",
+        "traditional": "內部"
+    },
+    {
+        "simplified": "内科",
+        "pinyin": "nèikē",
+        "meaning": "Internal medicine",
+        "traditional": "內科"
+    },
+    {
+        "simplified": "能干",
+        "pinyin": "nénggàn",
+        "meaning": "capable",
+        "traditional": "能幹"
+    },
+    {
+        "simplified": "宁静",
+        "pinyin": "níng jìng",
+        "meaning": "peaceful; tranquil; quiet",
+        "traditional": "寧靜"
+    },
+    {
+        "simplified": "浓",
+        "pinyin": "nóng",
+        "meaning": "strong",
+        "traditional": "濃"
+    },
+    {
+        "simplified": "女士",
+        "pinyin": "nǚshì",
+        "meaning": "Ma’am",
+        "traditional": "女士"
+    },
+    {
+        "simplified": "暖气",
+        "pinyin": "nuǎn qì",
+        "meaning": "central heating; heating; heater",
+        "traditional": "暖氣"
+    },
+    {
+        "simplified": "拍照",
+        "pinyin": "pāi zhào",
+        "meaning": "take a picture; photograph",
+        "traditional": "拍照"
+    },
+    {
+        "simplified": "排列",
+        "pinyin": "páiliè",
+        "meaning": "array",
+        "traditional": "排列"
+    },
+    {
+        "simplified": "牌",
+        "pinyin": "pái",
+        "meaning": "brand; cards; plate; tablet",
+        "traditional": "牌"
+    },
+    {
+        "simplified": "盘（名、量）",
+        "pinyin": "pán",
+        "meaning": "tray; plate; dish; current price; game; set; (measure word)",
+        "traditional": "盤（名、量）"
+    },
+    {
+        "simplified": "盘子",
+        "pinyin": "pánzi",
+        "meaning": "plate",
+        "traditional": "盤子"
+    },
+    {
+        "simplified": "胖子",
+        "pinyin": "pàng zi",
+        "meaning": "fat person; fatty",
+        "traditional": "胖子"
+    },
+    {
+        "simplified": "培训",
+        "pinyin": "péixùn",
+        "meaning": "Train",
+        "traditional": "培訓"
+    },
+    {
+        "simplified": "培训班",
+        "pinyin": "péi xùn bān",
+        "meaning": "training class",
+        "traditional": "培訓班"
+    },
+    {
+        "simplified": "培养",
+        "pinyin": "péiyǎng",
+        "meaning": "culture",
+        "traditional": "培養"
+    },
+    {
+        "simplified": "培育",
+        "pinyin": "péiyù",
+        "meaning": "Cultivation",
+        "traditional": "培育"
+    },
+    {
+        "simplified": "批（动）",
+        "pinyin": "pī",
+        "meaning": "criticize; batch",
+        "traditional": "批（動）"
+    },
+    {
+        "simplified": "批（量）",
+        "pinyin": "pī",
+        "meaning": "(measure word)",
+        "traditional": "批（量）"
+    },
+    {
+        "simplified": "片面",
+        "pinyin": "piànmiàn",
+        "meaning": "one-sided",
+        "traditional": "片面"
+    },
+    {
+        "simplified": "品质",
+        "pinyin": "pǐnzhì",
+        "meaning": "quality",
+        "traditional": "品質"
+    },
+    {
+        "simplified": "平方",
+        "pinyin": "píngfāng",
+        "meaning": "square",
+        "traditional": "平方"
+    },
+    {
+        "simplified": "平静",
+        "pinyin": "píngjìng",
+        "meaning": "calm",
+        "traditional": "平靜"
+    },
+    {
+        "simplified": "平均",
+        "pinyin": "píngjūn",
+        "meaning": "Average",
+        "traditional": "平均"
+    },
+    {
+        "simplified": "平稳",
+        "pinyin": "píng wěn",
+        "meaning": "smooth; steady",
+        "traditional": "平穩"
+    },
+    {
+        "simplified": "迫切",
+        "pinyin": "pòqiè",
+        "meaning": "urgent",
+        "traditional": "迫切"
+    },
+    {
+        "simplified": "破产",
+        "pinyin": "pòchǎn",
+        "meaning": "bankruptcy",
+        "traditional": "破產"
+    },
+    {
+        "simplified": "妻子",
+        "pinyin": "qīzi",
+        "meaning": "Wife",
+        "traditional": "妻子"
+    },
+    {
+        "simplified": "期待",
+        "pinyin": "qīdài",
+        "meaning": "expect; look forward to",
+        "traditional": "期待"
+    },
+    {
+        "simplified": "期间",
+        "pinyin": "qījiān",
+        "meaning": "Period",
+        "traditional": "期間"
+    },
+    {
+        "simplified": "期末",
+        "pinyin": "qī mò",
+        "meaning": "end of term",
+        "traditional": "期末"
+    },
+    {
+        "simplified": "期限",
+        "pinyin": "qīxiàn",
+        "meaning": "term",
+        "traditional": "期限"
+    },
+    {
+        "simplified": "期中",
+        "pinyin": "qī zhōng",
+        "meaning": "midterm",
+        "traditional": "期中"
+    },
+    {
+        "simplified": "其余",
+        "pinyin": "qíyú",
+        "meaning": "Rest",
+        "traditional": "其餘"
+    },
+    {
+        "simplified": "企业",
+        "pinyin": "qǐyè",
+        "meaning": "enterprise",
+        "traditional": "企業"
+    },
+    {
+        "simplified": "气球",
+        "pinyin": "qì qiú",
+        "meaning": "balloon",
+        "traditional": "氣球"
+    },
+    {
+        "simplified": "汽水",
+        "pinyin": "qì shuǐ",
+        "meaning": "soda; soda water; aerated water; sparkling water",
+        "traditional": "汽水"
+    },
+    {
+        "simplified": "汽油",
+        "pinyin": "qìyóu",
+        "meaning": "gasoline",
+        "traditional": "汽油"
+    },
+    {
+        "simplified": "器官",
+        "pinyin": "qìguān",
+        "meaning": "organ",
+        "traditional": "器官"
+    },
+    {
+        "simplified": "前头",
+        "pinyin": "qián tou",
+        "meaning": "front; thereinbefore",
+        "traditional": "前頭"
+    },
+    {
+        "simplified": "前途",
+        "pinyin": "qiántú",
+        "meaning": "future",
+        "traditional": "前途"
+    },
+    {
+        "simplified": "浅",
+        "pinyin": "qiǎn",
+        "meaning": "shallow",
+        "traditional": "淺"
+    },
+    {
+        "simplified": "巧克力",
+        "pinyin": "qiǎokèlì",
+        "meaning": "Chocolates",
+        "traditional": "巧克力"
+    },
+    {
+        "simplified": "切",
+        "pinyin": "qiē",
+        "meaning": "cut",
+        "traditional": "切"
+    },
+    {
+        "simplified": "亲爱",
+        "pinyin": "qīn’ài",
+        "meaning": "Dear",
+        "traditional": "親愛"
+    },
+    {
+        "simplified": "亲密",
+        "pinyin": "qīnmì",
+        "meaning": "close",
+        "traditional": "親密"
+    },
+    {
+        "simplified": "青春",
+        "pinyin": "qīngchūn",
+        "meaning": "Youth",
+        "traditional": "青春"
+    },
+    {
+        "simplified": "轻松",
+        "pinyin": "qīngsōng",
+        "meaning": "Relaxed",
+        "traditional": "輕鬆"
+    },
+    {
+        "simplified": "轻易",
+        "pinyin": "qīngyì",
+        "meaning": "easily",
+        "traditional": "輕易"
+    },
+    {
+        "simplified": "清醒",
+        "pinyin": "qīngxǐng",
+        "meaning": "Sober",
+        "traditional": "清醒"
+    },
+    {
+        "simplified": "情景",
+        "pinyin": "qíngjǐng",
+        "meaning": "scene",
+        "traditional": "情景"
+    },
+    {
+        "simplified": "穷",
+        "pinyin": "qióng",
+        "meaning": "poor",
+        "traditional": "窮"
+    },
+    {
+        "simplified": "穷人",
+        "pinyin": "qióng rén",
+        "meaning": "poor people; the poor",
+        "traditional": "窮人"
+    },
+    {
+        "simplified": "秋季",
+        "pinyin": "qiū jì",
+        "meaning": "autumn; fall",
+        "traditional": "秋季"
+    },
+    {
+        "simplified": "趋势",
+        "pinyin": "qūshì",
+        "meaning": "trend",
+        "traditional": "趨勢"
+    },
+    {
+        "simplified": "圈",
+        "pinyin": "quān",
+        "meaning": "circle",
+        "traditional": "圈"
+    },
+    {
+        "simplified": "权利",
+        "pinyin": "quánlì",
+        "meaning": "Right",
+        "traditional": "權利"
+    },
+    {
+        "simplified": "却",
+        "pinyin": "què",
+        "meaning": "but",
+        "traditional": "卻"
+    },
+    {
+        "simplified": "确认",
+        "pinyin": "quèrèn",
+        "meaning": "confirm",
+        "traditional": "確認"
+    },
+    {
+        "simplified": "然而",
+        "pinyin": "rán’ér",
+        "meaning": "however",
+        "traditional": "然而"
+    },
+    {
+        "simplified": "燃料",
+        "pinyin": "rán liào",
+        "meaning": "fuel",
+        "traditional": "燃料"
+    },
+    {
+        "simplified": "燃烧",
+        "pinyin": "ránshāo",
+        "meaning": "burning",
+        "traditional": "燃燒"
+    },
+    {
+        "simplified": "热闹",
+        "pinyin": "rènao",
+        "meaning": "lively",
+        "traditional": "熱鬧"
+    },
+    {
+        "simplified": "热心",
+        "pinyin": "rèxīn",
+        "meaning": "enthusiastic",
+        "traditional": "熱心"
+    },
+    {
+        "simplified": "人家",
+        "pinyin": "rénjiā",
+        "meaning": "family",
+        "traditional": "人家"
+    },
+    {
+        "simplified": "日记",
+        "pinyin": "rìjì",
+        "meaning": "diary",
+        "traditional": "日記"
+    },
+    {
+        "simplified": "日历",
+        "pinyin": "rìlì",
+        "meaning": "calendar",
+        "traditional": "日曆"
+    },
+    {
+        "simplified": "如今",
+        "pinyin": "rújīn",
+        "meaning": "nowadays",
+        "traditional": "如今"
+    },
+    {
+        "simplified": "弱",
+        "pinyin": "ruò",
+        "meaning": "weak",
+        "traditional": "弱"
+    },
+    {
+        "simplified": "伞",
+        "pinyin": "sǎn",
+        "meaning": "umbrella",
+        "traditional": "傘"
+    },
+    {
+        "simplified": "散",
+        "pinyin": "sàn",
+        "meaning": "break up; disperse; distribute; disseminate; give out",
+        "traditional": "散"
+    },
+    {
+        "simplified": "扫",
+        "pinyin": "sǎo",
+        "meaning": "sweep; broom",
+        "traditional": "掃"
+    },
+    {
+        "simplified": "色",
+        "pinyin": "sè",
+        "meaning": "colour; look; expression; scene; quality",
+        "traditional": "色"
+    },
+    {
+        "simplified": "色彩",
+        "pinyin": "sècǎi",
+        "meaning": "color",
+        "traditional": "色彩"
+    },
+    {
+        "simplified": "森林",
+        "pinyin": "sēnlín",
+        "meaning": "Forest",
+        "traditional": "森林"
+    },
+    {
+        "simplified": "晒",
+        "pinyin": "shài",
+        "meaning": "The sun",
+        "traditional": "曬"
+    },
+    {
+        "simplified": "闪",
+        "pinyin": "shǎn",
+        "meaning": "dodge; get out of the way; sprain; flash; sparkle; shine; lightning",
+        "traditional": "閃"
+    },
+    {
+        "simplified": "闪电",
+        "pinyin": "shǎndiàn",
+        "meaning": "lightning",
+        "traditional": "閃電"
+    },
+    {
+        "simplified": "善良",
+        "pinyin": "shànliáng",
+        "meaning": "kind; virtuous",
+        "traditional": "善良"
+    },
+    {
+        "simplified": "善于",
+        "pinyin": "shànyú",
+        "meaning": "be good at",
+        "traditional": "善於"
+    },
+    {
+        "simplified": "伤害",
+        "pinyin": "shānghài",
+        "meaning": "hurt",
+        "traditional": "傷害"
+    },
+    {
+        "simplified": "商务",
+        "pinyin": "shāngwù",
+        "meaning": "business",
+        "traditional": "商務"
+    },
+    {
+        "simplified": "赏",
+        "pinyin": "shǎng",
+        "meaning": "award; appreciate; reward",
+        "traditional": "賞"
+    },
+    {
+        "simplified": "上个月",
+        "pinyin": "shàng gè yuè",
+        "meaning": "last month",
+        "traditional": "上個月"
+    },
+    {
+        "simplified": "上楼",
+        "pinyin": "shàng lóu",
+        "meaning": "go upstairs",
+        "traditional": "上樓"
+    },
+    {
+        "simplified": "上门",
+        "pinyin": "shàng mén",
+        "meaning": "drop in; visit",
+        "traditional": "上門"
+    },
+    {
+        "simplified": "烧",
+        "pinyin": "shāo",
+        "meaning": "burn; cook; bake; roast; run a fever",
+        "traditional": "燒"
+    },
+    {
+        "simplified": "设施",
+        "pinyin": "shèshī",
+        "meaning": "facilities",
+        "traditional": "設施"
+    },
+    {
+        "simplified": "设置",
+        "pinyin": "shèzhì",
+        "meaning": "Set up",
+        "traditional": "設置"
+    },
+    {
+        "simplified": "申请",
+        "pinyin": "shēnqǐng",
+        "meaning": "Apply",
+        "traditional": "申請"
+    },
+    {
+        "simplified": "身材",
+        "pinyin": "shēncái",
+        "meaning": "figure",
+        "traditional": "身材"
+    },
+    {
+        "simplified": "身份",
+        "pinyin": "shēnfèn",
+        "meaning": "identity",
+        "traditional": "身份"
+    },
+    {
+        "simplified": "身高",
+        "pinyin": "shēn gāo",
+        "meaning": "height",
+        "traditional": "身高"
+    },
+    {
+        "simplified": "深厚",
+        "pinyin": "shēn hòu",
+        "meaning": "deep; profound; solid; deep-seated",
+        "traditional": "深厚"
+    },
+    {
+        "simplified": "神话",
+        "pinyin": "shénhuà",
+        "meaning": "Myth",
+        "traditional": "神話"
+    },
+    {
+        "simplified": "神秘",
+        "pinyin": "shénmì",
+        "meaning": "mysterious",
+        "traditional": "神秘"
+    },
+    {
+        "simplified": "甚至",
+        "pinyin": "shènzhì",
+        "meaning": "Even to the extent that",
+        "traditional": "甚至"
+    },
+    {
+        "simplified": "失败",
+        "pinyin": "shībài",
+        "meaning": "fail",
+        "traditional": "失敗"
+    },
+    {
+        "simplified": "失望",
+        "pinyin": "shīwàng",
+        "meaning": "Disappointment",
+        "traditional": "失望"
+    },
+    {
+        "simplified": "失业",
+        "pinyin": "shīyè",
+        "meaning": "Unemployment",
+        "traditional": "失業"
+    },
+    {
+        "simplified": "诗",
+        "pinyin": "shī",
+        "meaning": "poetry",
+        "traditional": "詩"
+    },
+    {
+        "simplified": "诗人",
+        "pinyin": "shī rén",
+        "meaning": "poet",
+        "traditional": "詩人"
+    },
+    {
+        "simplified": "湿",
+        "pinyin": "shī",
+        "meaning": "wet; damp; humid",
+        "traditional": "濕"
+    },
+    {
+        "simplified": "实施",
+        "pinyin": "shíshī",
+        "meaning": "Implementation",
+        "traditional": "實施"
+    },
+    {
+        "simplified": "实用",
+        "pinyin": "shíyòng",
+        "meaning": "Practical",
+        "traditional": "實用"
+    },
+    {
+        "simplified": "食堂",
+        "pinyin": "shí táng",
+        "meaning": "dining room; mess hall; canteen",
+        "traditional": "食堂"
+    },
+    {
+        "simplified": "使劲",
+        "pinyin": "shǐ jìn",
+        "meaning": "exert all one’s strength; put in energy",
+        "traditional": "使勁"
+    },
+    {
+        "simplified": "士兵",
+        "pinyin": "shìbīng",
+        "meaning": "soldiers",
+        "traditional": "士兵"
+    },
+    {
+        "simplified": "市区",
+        "pinyin": "shì qū",
+        "meaning": "downtown area; urban district",
+        "traditional": "市區"
+    },
+    {
+        "simplified": "似的",
+        "pinyin": "shìde",
+        "meaning": "Like",
+        "traditional": "似的"
+    },
+    {
+        "simplified": "事物",
+        "pinyin": "shìwù",
+        "meaning": "Thing",
+        "traditional": "事物"
+    },
+    {
+        "simplified": "事先",
+        "pinyin": "shìxiān",
+        "meaning": "Prior",
+        "traditional": "事先"
+    },
+    {
+        "simplified": "试卷",
+        "pinyin": "shìjuàn",
+        "meaning": "test paper",
+        "traditional": "試卷"
+    },
+    {
+        "simplified": "是否",
+        "pinyin": "shìfǒu",
+        "meaning": "Whether",
+        "traditional": "是否"
+    },
+    {
+        "simplified": "收回",
+        "pinyin": "shōu huí",
+        "meaning": "withdraw; regain; call in; countermand",
+        "traditional": "收回"
+    },
+    {
+        "simplified": "收获",
+        "pinyin": "shōuhuò",
+        "meaning": "Harvest",
+        "traditional": "收穫"
+    },
+    {
+        "simplified": "收益",
+        "pinyin": "shōuyì",
+        "meaning": "income; profit",
+        "traditional": "收益"
+    },
+    {
+        "simplified": "手工",
+        "pinyin": "shǒugōng",
+        "meaning": "manual",
+        "traditional": "手工"
+    },
+    {
+        "simplified": "手里",
+        "pinyin": "shǒu lǐ",
+        "meaning": "in one’s hands",
+        "traditional": "手裡"
+    },
+    {
+        "simplified": "手术",
+        "pinyin": "shǒushù",
+        "meaning": "Operation",
+        "traditional": "手術"
+    },
+    {
+        "simplified": "手套",
+        "pinyin": "shǒutào",
+        "meaning": "glove",
+        "traditional": "手套"
+    },
+    {
+        "simplified": "守",
+        "pinyin": "shǒu",
+        "meaning": "guard; defend; observe",
+        "traditional": "守"
+    },
+    {
+        "simplified": "首（量）",
+        "pinyin": "shǒu",
+        "meaning": "(measure word)",
+        "traditional": "首（量）"
+    },
+    {
+        "simplified": "受不了",
+        "pinyin": "shòubuliǎo",
+        "meaning": "Cannot bear sth",
+        "traditional": "受不了"
+    },
+    {
+        "simplified": "售货员",
+        "pinyin": "shòuhuòyuán",
+        "meaning": "Salesperson",
+        "traditional": "售貨員"
+    },
+    {
+        "simplified": "叔叔",
+        "pinyin": "shūshu",
+        "meaning": "uncle",
+        "traditional": "叔叔"
+    },
+    {
+        "simplified": "舒适",
+        "pinyin": "shūshì",
+        "meaning": "Comfortable",
+        "traditional": "舒適"
+    },
+    {
+        "simplified": "熟练",
+        "pinyin": "shúliàn",
+        "meaning": "skilled",
+        "traditional": "熟練"
+    },
+    {
+        "simplified": "暑假",
+        "pinyin": "shǔ jià",
+        "meaning": "summer vacation",
+        "traditional": "暑假"
+    },
+    {
+        "simplified": "树林",
+        "pinyin": "shù lín",
+        "meaning": "wood; grove; forest",
+        "traditional": "樹林"
+    },
+    {
+        "simplified": "树叶",
+        "pinyin": "shù yè",
+        "meaning": "leaf; tree leaf",
+        "traditional": "樹葉"
+    },
+    {
+        "simplified": "数据",
+        "pinyin": "shùjù",
+        "meaning": "data",
+        "traditional": "數據"
+    },
+    {
+        "simplified": "数码",
+        "pinyin": "shùmǎ",
+        "meaning": "Digital",
+        "traditional": "數碼"
+    },
+    {
+        "simplified": "刷",
+        "pinyin": "shuā",
+        "meaning": "brush; scrub; paste up",
+        "traditional": "刷"
+    },
+    {
+        "simplified": "刷牙",
+        "pinyin": "shuāyá",
+        "meaning": "Brush one’s teeth",
+        "traditional": "刷牙"
+    },
+    {
+        "simplified": "刷子",
+        "pinyin": "shuā zi",
+        "meaning": "brush; scrub",
+        "traditional": "刷子"
+    },
+    {
+        "simplified": "帅",
+        "pinyin": "shuài",
+        "meaning": "Handsome",
+        "traditional": "帥"
+    },
+    {
+        "simplified": "帅哥",
+        "pinyin": "shuài gē",
+        "meaning": "handsome boy",
+        "traditional": "帥哥"
+    },
+    {
+        "simplified": "率先",
+        "pinyin": "shuài xiān",
+        "meaning": "lead; take the lead",
+        "traditional": "率先"
+    },
+    {
+        "simplified": "睡着",
+        "pinyin": "shuì zháo",
+        "meaning": "sleep; fall asleep",
+        "traditional": "睡著"
+    },
+    {
+        "simplified": "顺序",
+        "pinyin": "shùnxù",
+        "meaning": "order",
+        "traditional": "順序"
+    },
+    {
+        "simplified": "说不定",
+        "pinyin": "shuōbudìng",
+        "meaning": "maybe",
+        "traditional": "說不定"
+    },
+    {
+        "simplified": "说服",
+        "pinyin": "shuōfú",
+        "meaning": "Persuade",
+        "traditional": "說服"
+    },
+    {
+        "simplified": "思考",
+        "pinyin": "sīkǎo",
+        "meaning": "Reflection",
+        "traditional": "思考"
+    },
+    {
+        "simplified": "似乎",
+        "pinyin": "sìhū",
+        "meaning": "It seems that",
+        "traditional": "似乎"
+    },
+    {
+        "simplified": "松",
+        "pinyin": "sōng",
+        "meaning": "pine; loose; slack; loosen; relax; slacken",
+        "traditional": "松"
+    },
+    {
+        "simplified": "松树",
+        "pinyin": "sōng shù",
+        "meaning": "pine tree; pine",
+        "traditional": "松樹"
+    },
+    {
+        "simplified": "塑料",
+        "pinyin": "sù liào",
+        "meaning": "plastic",
+        "traditional": "塑料"
+    },
+    {
+        "simplified": "塑料袋",
+        "pinyin": "sùliàodài",
+        "meaning": "Plastic bag",
+        "traditional": "塑料袋"
+    },
+    {
+        "simplified": "酸",
+        "pinyin": "suān",
+        "meaning": "acid",
+        "traditional": "酸"
+    },
+    {
+        "simplified": "酸奶",
+        "pinyin": "suān nǎi",
+        "meaning": "yogurt",
+        "traditional": "酸奶"
+    },
+    {
+        "simplified": "随手",
+        "pinyin": "suíshǒu",
+        "meaning": "Readily",
+        "traditional": "隨手"
+    },
+    {
+        "simplified": "孙女",
+        "pinyin": "sūn nǚ",
+        "meaning": "granddaughter",
+        "traditional": "孫女"
+    },
+    {
+        "simplified": "孙子",
+        "pinyin": "sūnzi",
+        "meaning": "Grandson",
+        "traditional": "孫子"
+    },
+    {
+        "simplified": "缩短",
+        "pinyin": "suōduǎn",
+        "meaning": "Shorten",
+        "traditional": "縮短"
+    },
+    {
+        "simplified": "缩小",
+        "pinyin": "suō xiǎo",
+        "meaning": "reduce; lessen; narrow; shrink; zoom out",
+        "traditional": "縮小"
+    },
+    {
+        "simplified": "台阶",
+        "pinyin": "táijiē",
+        "meaning": "Steps",
+        "traditional": "台階"
+    },
+    {
+        "simplified": "台上",
+        "pinyin": "tái shàng",
+        "meaning": "on the stage",
+        "traditional": "台上"
+    },
+    {
+        "simplified": "躺",
+        "pinyin": "tǎng",
+        "meaning": "lie",
+        "traditional": "躺"
+    },
+    {
+        "simplified": "套餐",
+        "pinyin": "tào cān",
+        "meaning": "set meal",
+        "traditional": "套餐"
+    },
+    {
+        "simplified": "特价",
+        "pinyin": "tè jià",
+        "meaning": "special offer; bargain price",
+        "traditional": "特價"
+    },
+    {
+        "simplified": "特殊",
+        "pinyin": "tèshū",
+        "meaning": "special",
+        "traditional": "特殊"
+    },
+    {
+        "simplified": "特征",
+        "pinyin": "tèzhēng",
+        "meaning": "Features",
+        "traditional": "特徵"
+    },
+    {
+        "simplified": "提供",
+        "pinyin": "tígōng",
+        "meaning": "provide",
+        "traditional": "提供"
+    },
+    {
+        "simplified": "提醒",
+        "pinyin": "tíxǐng",
+        "meaning": "remind",
+        "traditional": "提醒"
+    },
+    {
+        "simplified": "体操",
+        "pinyin": "tǐ cāo",
+        "meaning": "gymnastics",
+        "traditional": "體操"
+    },
+    {
+        "simplified": "体检",
+        "pinyin": "tǐ jiǎn",
+        "meaning": "physical examination",
+        "traditional": "體檢"
+    },
+    {
+        "simplified": "体重",
+        "pinyin": "tǐ zhòng",
+        "meaning": "body weight",
+        "traditional": "體重"
+    },
+    {
+        "simplified": "替",
+        "pinyin": "tì",
+        "meaning": "replace; substitute; take the place of; for; on behalf of",
+        "traditional": "替"
+    },
+    {
+        "simplified": "替代",
+        "pinyin": "tì dài",
+        "meaning": "replace; substitute",
+        "traditional": "替代"
+    },
+    {
+        "simplified": "天真",
+        "pinyin": "tiānzhēn",
+        "meaning": "naive",
+        "traditional": "天真"
+    },
+    {
+        "simplified": "填",
+        "pinyin": "tián",
+        "meaning": "fill; stuff; fill in; write",
+        "traditional": "填"
+    },
+    {
+        "simplified": "填空",
+        "pinyin": "tiánkòng",
+        "meaning": "Fill in the blanks",
+        "traditional": "填空"
+    },
+    {
+        "simplified": "挑",
+        "pinyin": "tiāo",
+        "meaning": "choose; pick; select",
+        "traditional": "挑"
+    },
+    {
+        "simplified": "挑选",
+        "pinyin": "tiāo xuǎn",
+        "meaning": "pick; choose; select; pick out",
+        "traditional": "挑選"
+    },
+    {
+        "simplified": "调皮",
+        "pinyin": "tiáopí",
+        "meaning": "naughty",
+        "traditional": "調皮"
+    },
+    {
+        "simplified": "挑",
+        "pinyin": "tiǎo",
+        "meaning": "lift up; raise; prick; incite",
+        "traditional": "挑"
+    },
+    {
+        "simplified": "挑战",
+        "pinyin": "tiǎozhàn",
+        "meaning": "Dekaron",
+        "traditional": "挑戰"
+    },
+    {
+        "simplified": "贴",
+        "pinyin": "tiē",
+        "meaning": "stick; paste; glue; nestle up to; keep close to",
+        "traditional": "貼"
+    },
+    {
+        "simplified": "停下",
+        "pinyin": "tíng xià",
+        "meaning": "stop",
+        "traditional": "停下"
+    },
+    {
+        "simplified": "挺（动）",
+        "pinyin": "tǐng",
+        "meaning": "stand; hold out; endure; stick out",
+        "traditional": "挺（動）"
+    },
+    {
+        "simplified": "通知书",
+        "pinyin": "tōng zhī shū",
+        "meaning": "notice",
+        "traditional": "通知書"
+    },
+    {
+        "simplified": "同情",
+        "pinyin": "tóngqíng",
+        "meaning": "Sympathy",
+        "traditional": "同情"
+    },
+    {
+        "simplified": "童话",
+        "pinyin": "tónghuà",
+        "meaning": "fairy tale",
+        "traditional": "童話"
+    },
+    {
+        "simplified": "童年",
+        "pinyin": "tóng nián",
+        "meaning": "childhood; babyhood",
+        "traditional": "童年"
+    },
+    {
+        "simplified": "统计",
+        "pinyin": "tǒngjì",
+        "meaning": "Statistics",
+        "traditional": "統計"
+    },
+    {
+        "simplified": "统一",
+        "pinyin": "tǒngyī",
+        "meaning": "Unified",
+        "traditional": "統一"
+    },
+    {
+        "simplified": "痛快",
+        "pinyin": "tòngkuài",
+        "meaning": "Happy, to one`s heart`s content",
+        "traditional": "痛快"
+    },
+    {
+        "simplified": "投",
+        "pinyin": "tóu",
+        "meaning": "throw; fling; hurl; cast; drop; put in; send; go to",
+        "traditional": "投"
+    },
+    {
+        "simplified": "投入",
+        "pinyin": "tóurù",
+        "meaning": "put into",
+        "traditional": "投入"
+    },
+    {
+        "simplified": "投诉",
+        "pinyin": "tóusù",
+        "meaning": "complaint",
+        "traditional": "投訴"
+    },
+    {
+        "simplified": "投资",
+        "pinyin": "tóuzī",
+        "meaning": "Investment",
+        "traditional": "投資"
+    },
+    {
+        "simplified": "透",
+        "pinyin": "tòu",
+        "meaning": "penetrate; pass through; tell secretly; show; through",
+        "traditional": "透"
+    },
+    {
+        "simplified": "透明",
+        "pinyin": "tòumíng",
+        "meaning": "transparent",
+        "traditional": "透明"
+    },
+    {
+        "simplified": "图案",
+        "pinyin": "tú’àn",
+        "meaning": "pattern",
+        "traditional": "圖案"
+    },
+    {
+        "simplified": "途中",
+        "pinyin": "tú zhōng",
+        "meaning": "on the way to; en route",
+        "traditional": "途中"
+    },
+    {
+        "simplified": "土地",
+        "pinyin": "tǔdì",
+        "meaning": "land",
+        "traditional": "土地"
+    },
+    {
+        "simplified": "推迟",
+        "pinyin": "tuīchí",
+        "meaning": "delay",
+        "traditional": "推遲"
+    },
+    {
+        "simplified": "推销",
+        "pinyin": "tuīxiāo",
+        "meaning": "promote sales",
+        "traditional": "推銷"
+    },
+    {
+        "simplified": "脱",
+        "pinyin": "tuō",
+        "meaning": "take off",
+        "traditional": "脫"
+    },
+    {
+        "simplified": "袜子",
+        "pinyin": "wàzi",
+        "meaning": "Socks",
+        "traditional": "襪子"
+    },
+    {
+        "simplified": "外汇",
+        "pinyin": "wài huì",
+        "meaning": "foreign exchange; foreign currency",
+        "traditional": "外匯"
+    },
+    {
+        "simplified": "外交官",
+        "pinyin": "wài jiāo guān",
+        "meaning": "diplomat; diplomatist",
+        "traditional": "外交官"
+    },
+    {
+        "simplified": "外套",
+        "pinyin": "wài tào",
+        "meaning": "coat",
+        "traditional": "外套"
+    },
+    {
+        "simplified": "弯",
+        "pinyin": "wān",
+        "meaning": "curved; bend; turn; crooked",
+        "traditional": "彎"
+    },
+    {
+        "simplified": "晚点",
+        "pinyin": "wǎn diǎn",
+        "meaning": "late; behind schedule",
+        "traditional": "晚點"
+    },
+    {
+        "simplified": "万一",
+        "pinyin": "wànyī",
+        "meaning": "In case",
+        "traditional": "萬一"
+    },
+    {
+        "simplified": "王",
+        "pinyin": "wáng",
+        "meaning": "king; monarch; head; chief",
+        "traditional": "王"
+    },
+    {
+        "simplified": "网络",
+        "pinyin": "wǎngluò",
+        "meaning": "network",
+        "traditional": "網絡"
+    },
+    {
+        "simplified": "网址",
+        "pinyin": "wǎng zhǐ",
+        "meaning": "Internet site; website; URL",
+        "traditional": "網址"
+    },
+    {
+        "simplified": "微笑",
+        "pinyin": "wēixiào",
+        "meaning": "Smile",
+        "traditional": "微笑"
+    },
+    {
+        "simplified": "微信",
+        "pinyin": "wēi xìn",
+        "meaning": "WeChat (a Chinese social app)",
+        "traditional": "微信"
+    },
+    {
+        "simplified": "围巾",
+        "pinyin": "wéijīn",
+        "meaning": "scarf",
+        "traditional": "圍巾"
+    },
+    {
+        "simplified": "维持",
+        "pinyin": "wéichí",
+        "meaning": "maintain",
+        "traditional": "維持"
+    },
+    {
+        "simplified": "维护",
+        "pinyin": "wéihù",
+        "meaning": "protect",
+        "traditional": "維護"
+    },
+    {
+        "simplified": "维修",
+        "pinyin": "wéixiū",
+        "meaning": "Repair",
+        "traditional": "維修"
+    },
+    {
+        "simplified": "尾巴",
+        "pinyin": "wěiba",
+        "meaning": "tail",
+        "traditional": "尾巴"
+    },
+    {
+        "simplified": "未必",
+        "pinyin": "wèibì",
+        "meaning": "not necessarily",
+        "traditional": "未必"
+    },
+    {
+        "simplified": "未来",
+        "pinyin": "wèilái",
+        "meaning": "Future",
+        "traditional": "未來"
+    },
+    {
+        "simplified": "位于",
+        "pinyin": "wèiyú",
+        "meaning": "Be located",
+        "traditional": "位於"
+    },
+    {
+        "simplified": "位置",
+        "pinyin": "wèizhì",
+        "meaning": "position",
+        "traditional": "位置"
+    },
+    {
+        "simplified": "味儿",
+        "pinyin": "wèir",
+        "meaning": "flavor; taste",
+        "traditional": "味兒"
+    },
+    {
+        "simplified": "喂（动）",
+        "pinyin": "wèi",
+        "meaning": "feed",
+        "traditional": "餵（動）"
+    },
+    {
+        "simplified": "稳",
+        "pinyin": "wěn",
+        "meaning": "steady; stable; sure; certain",
+        "traditional": "穩"
+    },
+    {
+        "simplified": "稳定",
+        "pinyin": "wěndìng",
+        "meaning": "Stable",
+        "traditional": "穩定"
+    },
+    {
+        "simplified": "问候",
+        "pinyin": "wènhòu",
+        "meaning": "To greet",
+        "traditional": "問候"
+    },
+    {
+        "simplified": "无",
+        "pinyin": "wú",
+        "meaning": "nothing",
+        "traditional": "無"
+    },
+    {
+        "simplified": "无法",
+        "pinyin": "wú fǎ",
+        "meaning": "unable; incapable",
+        "traditional": "無法"
+    },
+    {
+        "simplified": "无聊",
+        "pinyin": "wúliáo",
+        "meaning": "Boring",
+        "traditional": "無聊"
+    },
+    {
+        "simplified": "无论",
+        "pinyin": "wúlùn",
+        "meaning": "no matter",
+        "traditional": "無論"
+    },
+    {
+        "simplified": "无数",
+        "pinyin": "wúshù",
+        "meaning": "Countless",
+        "traditional": "無數"
+    },
+    {
+        "simplified": "无所谓",
+        "pinyin": "wúsuǒwèi",
+        "meaning": "cannot be designated as",
+        "traditional": "無所謂"
+    },
+    {
+        "simplified": "无限",
+        "pinyin": "wú xiàn",
+        "meaning": "infinite; limitless; unlimited",
+        "traditional": "無限"
+    },
+    {
+        "simplified": "五颜六色",
+        "pinyin": "wǔ yán liù sè",
+        "meaning": "colourful; multicolored",
+        "traditional": "五顏六色"
+    },
+    {
+        "simplified": "误会",
+        "pinyin": "wùhuì",
+        "meaning": "Misunderstanding",
+        "traditional": "誤會"
+    },
+    {
+        "simplified": "西瓜",
+        "pinyin": "xīguā",
+        "meaning": "watermelon",
+        "traditional": "西瓜"
+    },
+    {
+        "simplified": "吸",
+        "pinyin": "xī",
+        "meaning": "inhale; breathe; absorb; suck in",
+        "traditional": "吸"
+    },
+    {
+        "simplified": "吸管",
+        "pinyin": "xī guǎn",
+        "meaning": "straw",
+        "traditional": "吸管"
+    },
+    {
+        "simplified": "吸收",
+        "pinyin": "xīshōu",
+        "meaning": "absorb",
+        "traditional": "吸收"
+    },
+    {
+        "simplified": "吸烟",
+        "pinyin": "xī yān",
+        "meaning": "smoke",
+        "traditional": "吸煙"
+    },
+    {
+        "simplified": "吸引",
+        "pinyin": "xīyǐn",
+        "meaning": "Attract",
+        "traditional": "吸引"
+    },
+    {
+        "simplified": "喜爱",
+        "pinyin": "xǐ ài",
+        "meaning": "like; love; be fond of",
+        "traditional": "喜愛"
+    },
+    {
+        "simplified": "系列",
+        "pinyin": "xìliè",
+        "meaning": "series",
+        "traditional": "系列"
+    },
+    {
+        "simplified": "系统",
+        "pinyin": "xìtǒng",
+        "meaning": "system",
+        "traditional": "系統"
+    },
+    {
+        "simplified": "细",
+        "pinyin": "xì",
+        "meaning": "thin; slender; delicate; careful; trifling",
+        "traditional": "細"
+    },
+    {
+        "simplified": "细节",
+        "pinyin": "xìjié",
+        "meaning": "details",
+        "traditional": "細節"
+    },
+    {
+        "simplified": "细致",
+        "pinyin": "xìzhì",
+        "meaning": "careful",
+        "traditional": "細緻"
+    },
+    {
+        "simplified": "下个月",
+        "pinyin": "xià gè yuè",
+        "meaning": "next month",
+        "traditional": "下個月"
+    },
+    {
+        "simplified": "下降",
+        "pinyin": "xià jiàng",
+        "meaning": "decline; drop; decrease; fall; go down",
+        "traditional": "下降"
+    },
+    {
+        "simplified": "下楼",
+        "pinyin": "xià lóu",
+        "meaning": "go downstairs; come downstairs",
+        "traditional": "下樓"
+    },
+    {
+        "simplified": "下载",
+        "pinyin": "xiàzài",
+        "meaning": "download",
+        "traditional": "下載"
+    },
+    {
+        "simplified": "夏季",
+        "pinyin": "xià jì",
+        "meaning": "summer",
+        "traditional": "夏季"
+    },
+    {
+        "simplified": "鲜",
+        "pinyin": "xiān",
+        "meaning": "fresh; bright; delicious; little; rare",
+        "traditional": "鮮"
+    },
+    {
+        "simplified": "鲜花",
+        "pinyin": "xiān huā",
+        "meaning": "fresh flower",
+        "traditional": "鮮花"
+    },
+    {
+        "simplified": "鲜明",
+        "pinyin": "xiānmíng",
+        "meaning": "distinct",
+        "traditional": "鮮明"
+    },
+    {
+        "simplified": "咸",
+        "pinyin": "xián",
+        "meaning": "salty",
+        "traditional": "咸"
+    },
+    {
+        "simplified": "显著",
+        "pinyin": "xiǎnzhù",
+        "meaning": "remarkable",
+        "traditional": "顯著"
+    },
+    {
+        "simplified": "县",
+        "pinyin": "xiàn",
+        "meaning": "county",
+        "traditional": "縣"
+    },
+    {
+        "simplified": "限制",
+        "pinyin": "xiànzhì",
+        "meaning": "limit",
+        "traditional": "限制"
+    },
+    {
+        "simplified": "相处",
+        "pinyin": "xiāngchǔ",
+        "meaning": "Get along with",
+        "traditional": "相處"
+    },
+    {
+        "simplified": "相反",
+        "pinyin": "xiāngfǎn",
+        "meaning": "Contrary",
+        "traditional": "相反"
+    },
+    {
+        "simplified": "箱",
+        "pinyin": "xiāng",
+        "meaning": "chest; box; case; trunk",
+        "traditional": "箱"
+    },
+    {
+        "simplified": "箱子",
+        "pinyin": "xiāng zi",
+        "meaning": "chest; bin; box; case; trunk",
+        "traditional": "箱子"
+    },
+    {
+        "simplified": "想念",
+        "pinyin": "xiǎngniàn",
+        "meaning": "miss",
+        "traditional": "想念"
+    },
+    {
+        "simplified": "想象",
+        "pinyin": "xiǎngxiàng",
+        "meaning": "imagine",
+        "traditional": "想像"
+    },
+    {
+        "simplified": "项",
+        "pinyin": "xiàng",
+        "meaning": "term",
+        "traditional": "項"
+    },
+    {
+        "simplified": "项目",
+        "pinyin": "xiàngmù",
+        "meaning": "project",
+        "traditional": "項目"
+    },
+    {
+        "simplified": "相片",
+        "pinyin": "xiàng piàn",
+        "meaning": "photo; photograph",
+        "traditional": "相片"
+    },
+    {
+        "simplified": "消化",
+        "pinyin": "xiāohuà",
+        "meaning": "Digestion",
+        "traditional": "消化"
+    },
+    {
+        "simplified": "销售",
+        "pinyin": "xiāoshòu",
+        "meaning": "Sale",
+        "traditional": "銷售"
+    },
+    {
+        "simplified": "小吃",
+        "pinyin": "xiǎochī",
+        "meaning": "snack",
+        "traditional": "小吃"
+    },
+    {
+        "simplified": "小伙子",
+        "pinyin": "xiǎohuǒzi",
+        "meaning": "Young fellow",
+        "traditional": "小伙子"
+    },
+    {
+        "simplified": "小型",
+        "pinyin": "xiǎo xíng",
+        "meaning": "small-size; small-scale",
+        "traditional": "小型"
+    },
+    {
+        "simplified": "效率",
+        "pinyin": "xiàolǜ",
+        "meaning": "efficiency",
+        "traditional": "效率"
+    },
+    {
+        "simplified": "些",
+        "pinyin": "xiē",
+        "meaning": "some",
+        "traditional": "些"
+    },
+    {
+        "simplified": "心理",
+        "pinyin": "xīnlǐ",
+        "meaning": "Psychology",
+        "traditional": "心理"
+    },
+    {
+        "simplified": "新郎",
+        "pinyin": "xīnláng",
+        "meaning": "Groom",
+        "traditional": "新郎"
+    },
+    {
+        "simplified": "新娘",
+        "pinyin": "xīnniáng",
+        "meaning": "Bride",
+        "traditional": "新娘"
+    },
+    {
+        "simplified": "新鲜",
+        "pinyin": "xīnxiān",
+        "meaning": "fresh",
+        "traditional": "新鮮"
+    },
+    {
+        "simplified": "新型",
+        "pinyin": "xīn xíng",
+        "meaning": "new type; new kind",
+        "traditional": "新型"
+    },
+    {
+        "simplified": "兴奋",
+        "pinyin": "xīngfèn",
+        "meaning": "Excitement",
+        "traditional": "興奮"
+    },
+    {
+        "simplified": "形容",
+        "pinyin": "xíngróng",
+        "meaning": "describe",
+        "traditional": "形容"
+    },
+    {
+        "simplified": "形势",
+        "pinyin": "xíngshì",
+        "meaning": "situation",
+        "traditional": "形勢"
+    },
+    {
+        "simplified": "型",
+        "pinyin": "xíng",
+        "meaning": "mould; model; type; pattern",
+        "traditional": "型"
+    },
+    {
+        "simplified": "型号",
+        "pinyin": "xíng hào",
+        "meaning": "model; type; pattern",
+        "traditional": "型號"
+    },
+    {
+        "simplified": "醒",
+        "pinyin": "xǐng",
+        "meaning": "wake up",
+        "traditional": "醒"
+    },
+    {
+        "simplified": "兴趣",
+        "pinyin": "xìng qù",
+        "meaning": "interest",
+        "traditional": "興趣"
+    },
+    {
+        "simplified": "性质",
+        "pinyin": "xìngzhì",
+        "meaning": "Nature",
+        "traditional": "性質"
+    },
+    {
+        "simplified": "兄弟",
+        "pinyin": "xiōngdì",
+        "meaning": "Brother",
+        "traditional": "兄弟"
+    },
+    {
+        "simplified": "胸部",
+        "pinyin": "xiōng bù",
+        "meaning": "chest; thorax; breast",
+        "traditional": "胸部"
+    },
+    {
+        "simplified": "修理",
+        "pinyin": "xiūlǐ",
+        "meaning": "repair",
+        "traditional": "修理"
+    },
+    {
+        "simplified": "选择",
+        "pinyin": "xuǎnzé",
+        "meaning": "Choice",
+        "traditional": "選擇"
+    },
+    {
+        "simplified": "学分",
+        "pinyin": "xué fēn",
+        "meaning": "credit; academic credit",
+        "traditional": "學分"
+    },
+    {
+        "simplified": "学年",
+        "pinyin": "xué nián",
+        "meaning": "school year; academic year",
+        "traditional": "學年"
+    },
+    {
+        "simplified": "学时",
+        "pinyin": "xué shí",
+        "meaning": "class hour; period",
+        "traditional": "學時"
+    },
+    {
+        "simplified": "学术",
+        "pinyin": "xuéshù",
+        "meaning": "learning",
+        "traditional": "學術"
+    },
+    {
+        "simplified": "学问",
+        "pinyin": "xuéwen",
+        "meaning": "knowledge",
+        "traditional": "學問"
+    },
+    {
+        "simplified": "寻找",
+        "pinyin": "xúnzhǎo",
+        "meaning": "Seek, look for",
+        "traditional": "尋找"
+    },
+    {
+        "simplified": "迅速",
+        "pinyin": "xùnsù",
+        "meaning": "rapid",
+        "traditional": "迅速"
+    },
+    {
+        "simplified": "牙",
+        "pinyin": "yá",
+        "meaning": "tooth; ivory; tooth-like thing",
+        "traditional": "牙"
+    },
+    {
+        "simplified": "牙刷",
+        "pinyin": "yá shuā",
+        "meaning": "toothbrush",
+        "traditional": "牙刷"
+    },
+    {
+        "simplified": "亚运会",
+        "pinyin": "yà yùn huì",
+        "meaning": "Asian Games",
+        "traditional": "亞運會"
+    },
+    {
+        "simplified": "呀",
+        "pinyin": "ya",
+        "meaning": "ah",
+        "traditional": "呀"
+    },
+    {
+        "simplified": "延长",
+        "pinyin": "yáncháng",
+        "meaning": "extend",
+        "traditional": "延長"
+    },
+    {
+        "simplified": "延期",
+        "pinyin": "yánqī",
+        "meaning": "Delay",
+        "traditional": "延期"
+    },
+    {
+        "simplified": "延续",
+        "pinyin": "yánxù",
+        "meaning": "continue",
+        "traditional": "延續"
+    },
+    {
+        "simplified": "严",
+        "pinyin": "yán",
+        "meaning": "strict; tight; severe; stern",
+        "traditional": "嚴"
+    },
+    {
+        "simplified": "严格",
+        "pinyin": "yángé",
+        "meaning": "strict",
+        "traditional": "嚴格"
+    },
+    {
+        "simplified": "严重",
+        "pinyin": "yánzhòng",
+        "meaning": "serious",
+        "traditional": "嚴重"
+    },
+    {
+        "simplified": "研究",
+        "pinyin": "yánjiū",
+        "meaning": "research",
+        "traditional": "研究"
+    },
+    {
+        "simplified": "研究生",
+        "pinyin": "yán jiū shēng",
+        "meaning": "postgraduate; graduate student",
+        "traditional": "研究生"
+    },
+    {
+        "simplified": "研制",
+        "pinyin": "yán zhì",
+        "meaning": "prepare; manufacture; develop",
+        "traditional": "研製"
+    },
+    {
+        "simplified": "盐",
+        "pinyin": "yán",
+        "meaning": "salt",
+        "traditional": "鹽"
+    },
+    {
+        "simplified": "眼镜",
+        "pinyin": "yǎnjìng",
+        "meaning": "glasses",
+        "traditional": "眼鏡"
+    },
+    {
+        "simplified": "眼泪",
+        "pinyin": "yǎn lèi",
+        "meaning": "tear; eyedrop",
+        "traditional": "眼淚"
+    },
+    {
+        "simplified": "眼里",
+        "pinyin": "yǎn lǐ",
+        "meaning": "within one’s vision; in one’s eyes",
+        "traditional": "眼裡"
+    },
+    {
+        "simplified": "演讲",
+        "pinyin": "yǎnjiǎng",
+        "meaning": "speech",
+        "traditional": "演講"
+    },
+    {
+        "simplified": "阳台",
+        "pinyin": "yángtái",
+        "meaning": "balcony",
+        "traditional": "陽台"
+    },
+    {
+        "simplified": "养成",
+        "pinyin": "yǎngchéng",
+        "meaning": "Cultivate",
+        "traditional": "養成"
+    },
+    {
+        "simplified": "腰",
+        "pinyin": "yāo",
+        "meaning": "waist",
+        "traditional": "腰"
+    },
+    {
+        "simplified": "摇",
+        "pinyin": "yáo",
+        "meaning": "shake",
+        "traditional": "搖"
+    },
+    {
+        "simplified": "药物",
+        "pinyin": "yào wù",
+        "meaning": "drug; medicine",
+        "traditional": "藥物"
+    },
+    {
+        "simplified": "要（连）",
+        "pinyin": "yào",
+        "meaning": "if",
+        "traditional": "要（連）"
+    },
+    {
+        "simplified": "业余",
+        "pinyin": "yèyú",
+        "meaning": "amateur",
+        "traditional": "業餘"
+    },
+    {
+        "simplified": "叶子",
+        "pinyin": "yèzi",
+        "meaning": "Leaf",
+        "traditional": "葉子"
+    },
+    {
+        "simplified": "医疗",
+        "pinyin": "yī liáo",
+        "meaning": "medical treatment",
+        "traditional": "醫療"
+    },
+    {
+        "simplified": "医学",
+        "pinyin": "yī xué",
+        "meaning": "medical science; medicine",
+        "traditional": "醫學"
+    },
+    {
+        "simplified": "依靠",
+        "pinyin": "yīkào",
+        "meaning": "rely on; depend on",
+        "traditional": "依靠"
+    },
+    {
+        "simplified": "依然",
+        "pinyin": "yīrán",
+        "meaning": "still",
+        "traditional": "依然"
+    },
+    {
+        "simplified": "一律",
+        "pinyin": "yílǜ",
+        "meaning": "all and singular",
+        "traditional": "一律"
+    },
+    {
+        "simplified": "一再",
+        "pinyin": "yízài",
+        "meaning": "repeatedly",
+        "traditional": "一再"
+    },
+    {
+        "simplified": "一致",
+        "pinyin": "yízhì",
+        "meaning": "Agreement",
+        "traditional": "一致"
+    },
+    {
+        "simplified": "移",
+        "pinyin": "yí",
+        "meaning": "move; remove; shift; change; alter",
+        "traditional": "移"
+    },
+    {
+        "simplified": "移动",
+        "pinyin": "yídòng",
+        "meaning": "move",
+        "traditional": "移動"
+    },
+    {
+        "simplified": "移民",
+        "pinyin": "yímín",
+        "meaning": "immigrant",
+        "traditional": "移民"
+    },
+    {
+        "simplified": "遗产",
+        "pinyin": "yíchǎn",
+        "meaning": "heritage",
+        "traditional": "遺產"
+    },
+    {
+        "simplified": "遗传",
+        "pinyin": "yíchuán",
+        "meaning": "inheritance",
+        "traditional": "遺傳"
+    },
+    {
+        "simplified": "疑问",
+        "pinyin": "yíwèn",
+        "meaning": "Doubt",
+        "traditional": "疑問"
+    },
+    {
+        "simplified": "以及",
+        "pinyin": "yǐjí",
+        "meaning": "as well as",
+        "traditional": "以及"
+    },
+    {
+        "simplified": "以内",
+        "pinyin": "yǐ nèi",
+        "meaning": "within",
+        "traditional": "以內"
+    },
+    {
+        "simplified": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "meaning": "generally speaking",
+        "traditional": "一般來說"
+    },
+    {
+        "simplified": "义务",
+        "pinyin": "yìwù",
+        "meaning": "obligation",
+        "traditional": "義務"
+    },
+    {
+        "simplified": "议论",
+        "pinyin": "yìlùn",
+        "meaning": "Discussion",
+        "traditional": "議論"
+    },
+    {
+        "simplified": "引",
+        "pinyin": "yǐn",
+        "meaning": "lead; guide; draw; stretch; lure; attract; cause",
+        "traditional": "引"
+    },
+    {
+        "simplified": "引导",
+        "pinyin": "yǐndǎo",
+        "meaning": "guide",
+        "traditional": "引導"
+    },
+    {
+        "simplified": "引进",
+        "pinyin": "yǐn jìn",
+        "meaning": "introduce from elsewhere; bring in; recommend",
+        "traditional": "引進"
+    },
+    {
+        "simplified": "引起",
+        "pinyin": "yǐnqǐ",
+        "meaning": "cause",
+        "traditional": "引起"
+    },
+    {
+        "simplified": "应",
+        "pinyin": "yīng",
+        "meaning": "should; ought to; answer; respond; promise",
+        "traditional": "應"
+    },
+    {
+        "simplified": "英勇",
+        "pinyin": "yīngyǒng",
+        "meaning": "heroic",
+        "traditional": "英勇"
+    },
+    {
+        "simplified": "营业",
+        "pinyin": "yíngyè",
+        "meaning": "Do business",
+        "traditional": "營業"
+    },
+    {
+        "simplified": "赢得",
+        "pinyin": "yíng dé",
+        "meaning": "gain; win",
+        "traditional": "贏得"
+    },
+    {
+        "simplified": "影子",
+        "pinyin": "yǐngzi",
+        "meaning": "shadow",
+        "traditional": "影子"
+    },
+    {
+        "simplified": "勇敢",
+        "pinyin": "yǒnggǎn",
+        "meaning": "Brave",
+        "traditional": "勇敢"
+    },
+    {
+        "simplified": "勇气",
+        "pinyin": "yǒngqì",
+        "meaning": "courage",
+        "traditional": "勇氣"
+    },
+    {
+        "simplified": "用途",
+        "pinyin": "yòngtú",
+        "meaning": "purpose",
+        "traditional": "用途"
+    },
+    {
+        "simplified": "优良",
+        "pinyin": "yōu liáng",
+        "meaning": "fine; good; excellent",
+        "traditional": "優良"
+    },
+    {
+        "simplified": "优美",
+        "pinyin": "yōuměi",
+        "meaning": "Graceful",
+        "traditional": "優美"
+    },
+    {
+        "simplified": "优秀",
+        "pinyin": "yōuxiù",
+        "meaning": "excellent",
+        "traditional": "優秀"
+    },
+    {
+        "simplified": "邮局",
+        "pinyin": "yóujú",
+        "meaning": "Post Office",
+        "traditional": "郵局"
+    },
+    {
+        "simplified": "有劲儿",
+        "pinyin": "yǒu jìnr",
+        "meaning": "strong; energetic",
+        "traditional": "有勁兒"
+    },
+    {
+        "simplified": "有趣",
+        "pinyin": "yǒuqù",
+        "meaning": "interesting",
+        "traditional": "有趣"
+    },
+    {
+        "simplified": "有限",
+        "pinyin": "yǒu xiàn",
+        "meaning": "limited; finite",
+        "traditional": "有限"
+    },
+    {
+        "simplified": "幼儿园",
+        "pinyin": "yòu’éryuán",
+        "meaning": "Kindergarten",
+        "traditional": "幼兒園"
+    },
+    {
+        "simplified": "于是",
+        "pinyin": "yúshì",
+        "meaning": "Therefore",
+        "traditional": "於是"
+    },
+    {
+        "simplified": "语法",
+        "pinyin": "yǔfǎ",
+        "meaning": "grammar",
+        "traditional": "語法"
+    },
+    {
+        "simplified": "语音",
+        "pinyin": "yǔ yīn",
+        "meaning": "voice",
+        "traditional": "語音"
+    },
+    {
+        "simplified": "玉",
+        "pinyin": "yù",
+        "meaning": "jade",
+        "traditional": "玉"
+    },
+    {
+        "simplified": "玉米",
+        "pinyin": "yùmǐ",
+        "meaning": "Corn",
+        "traditional": "玉米"
+    },
+    {
+        "simplified": "预测",
+        "pinyin": "yù cè",
+        "meaning": "forecast; prognosis",
+        "traditional": "預測"
+    },
+    {
+        "simplified": "预订",
+        "pinyin": "yùdìng",
+        "meaning": "book; subscribe for",
+        "traditional": "預訂"
+    },
+    {
+        "simplified": "遇",
+        "pinyin": "yù",
+        "meaning": "meet; encounter",
+        "traditional": "遇"
+    },
+    {
+        "simplified": "遇到",
+        "pinyin": "yùdào",
+        "meaning": "encounter",
+        "traditional": "遇到"
+    },
+    {
+        "simplified": "遇见",
+        "pinyin": "yù jiàn",
+        "meaning": "meet; come across",
+        "traditional": "遇見"
+    },
+    {
+        "simplified": "原料",
+        "pinyin": "yuánliào",
+        "meaning": "raw material",
+        "traditional": "原料"
+    },
+    {
+        "simplified": "原则",
+        "pinyin": "yuánzé",
+        "meaning": "Principle",
+        "traditional": "原則"
+    },
+    {
+        "simplified": "圆",
+        "pinyin": "yuán",
+        "meaning": "circular",
+        "traditional": "圓"
+    },
+    {
+        "simplified": "圆满",
+        "pinyin": "yuánmǎn",
+        "meaning": "Satisfactorily",
+        "traditional": "圓滿"
+    },
+    {
+        "simplified": "约会",
+        "pinyin": "yuēhuì",
+        "meaning": "Date",
+        "traditional": "約會"
+    },
+    {
+        "simplified": "月底",
+        "pinyin": "yuè dǐ",
+        "meaning": "the end of a month",
+        "traditional": "月底"
+    },
+    {
+        "simplified": "阅读",
+        "pinyin": "yuèdú",
+        "meaning": "Read",
+        "traditional": "閱讀"
+    },
+    {
+        "simplified": "运动会",
+        "pinyin": "yùn dòng huì",
+        "meaning": "sports meeting",
+        "traditional": "運動會"
+    },
+    {
+        "simplified": "运动员",
+        "pinyin": "yùn dòng yuán",
+        "meaning": "athlete; sportsman",
+        "traditional": "運動員"
+    },
+    {
+        "simplified": "运气",
+        "pinyin": "yùnqi",
+        "meaning": "luck",
+        "traditional": "運氣"
+    },
+    {
+        "simplified": "运用",
+        "pinyin": "yùnyòng",
+        "meaning": "Application",
+        "traditional": "運用"
+    },
+    {
+        "simplified": "再三",
+        "pinyin": "zàisān",
+        "meaning": "repeatedly",
+        "traditional": "再三"
+    },
+    {
+        "simplified": "在乎",
+        "pinyin": "zàihu",
+        "meaning": "care about",
+        "traditional": "在乎"
+    },
+    {
+        "simplified": "在于",
+        "pinyin": "zàiyú",
+        "meaning": "rest with",
+        "traditional": "在於"
+    },
+    {
+        "simplified": "赞成",
+        "pinyin": "zànchéng",
+        "meaning": "agree",
+        "traditional": "贊成"
+    },
+    {
+        "simplified": "赞赏",
+        "pinyin": "zàn shǎng",
+        "meaning": "praise; panegyrize; eulogize; admiration",
+        "traditional": "讚賞"
+    },
+    {
+        "simplified": "赞助",
+        "pinyin": "zànzhù",
+        "meaning": "Sponsor",
+        "traditional": "贊助"
+    },
+    {
+        "simplified": "造型",
+        "pinyin": "zàoxíng",
+        "meaning": "style; modeling",
+        "traditional": "造型"
+    },
+    {
+        "simplified": "战斗",
+        "pinyin": "zhàndòu",
+        "meaning": "Battle",
+        "traditional": "戰鬥"
+    },
+    {
+        "simplified": "战胜",
+        "pinyin": "zhàn shèng",
+        "meaning": "defeat; conquer",
+        "traditional": "戰勝"
+    },
+    {
+        "simplified": "战士",
+        "pinyin": "zhàn shì",
+        "meaning": "warrior; soldier; fighter",
+        "traditional": "戰士"
+    },
+    {
+        "simplified": "战争",
+        "pinyin": "zhànzhēng",
+        "meaning": "War",
+        "traditional": "戰爭"
+    },
+    {
+        "simplified": "丈夫",
+        "pinyin": "zhàngfu",
+        "meaning": "husband",
+        "traditional": "丈夫"
+    },
+    {
+        "simplified": "招呼",
+        "pinyin": "zhāo hu",
+        "meaning": "call; hail; greet; glad-hand",
+        "traditional": "招呼"
+    },
+    {
+        "simplified": "着",
+        "pinyin": "zhe",
+        "meaning": "in process of",
+        "traditional": "著"
+    },
+    {
+        "simplified": "着火",
+        "pinyin": "zháohuǒ",
+        "meaning": "on fire",
+        "traditional": "著火"
+    },
+    {
+        "simplified": "着急",
+        "pinyin": "zháojí",
+        "meaning": "Worry",
+        "traditional": "著急"
+    },
+    {
+        "simplified": "召开",
+        "pinyin": "zhàokāi",
+        "meaning": "convene",
+        "traditional": "召開"
+    },
+    {
+        "simplified": "折",
+        "pinyin": "zhé",
+        "meaning": "fracture",
+        "traditional": "折"
+    },
+    {
+        "simplified": "针",
+        "pinyin": "zhēn",
+        "meaning": "needle; injection",
+        "traditional": "針"
+    },
+    {
+        "simplified": "针对",
+        "pinyin": "zhēnduì",
+        "meaning": "In the light of",
+        "traditional": "針對"
+    },
+    {
+        "simplified": "阵",
+        "pinyin": "zhèn",
+        "meaning": "front",
+        "traditional": "陣"
+    },
+    {
+        "simplified": "争论",
+        "pinyin": "zhēnglùn",
+        "meaning": "debate",
+        "traditional": "爭論"
+    },
+    {
+        "simplified": "征服",
+        "pinyin": "zhēngfú",
+        "meaning": "Conquer",
+        "traditional": "征服"
+    },
+    {
+        "simplified": "征求",
+        "pinyin": "zhēngqiú",
+        "meaning": "seek, ask for",
+        "traditional": "徵求"
+    },
+    {
+        "simplified": "政府",
+        "pinyin": "zhèngfǔ",
+        "meaning": "government",
+        "traditional": "政府"
+    },
+    {
+        "simplified": "政治",
+        "pinyin": "zhèngzhì",
+        "meaning": "Politics",
+        "traditional": "政治"
+    },
+    {
+        "simplified": "之后",
+        "pinyin": "zhī hòu",
+        "meaning": "later; after; afterwards",
+        "traditional": "之後"
+    },
+    {
+        "simplified": "之间",
+        "pinyin": "zhī jiān",
+        "meaning": "between; among",
+        "traditional": "之間"
+    },
+    {
+        "simplified": "之前",
+        "pinyin": "zhī qián",
+        "meaning": "before; prior to",
+        "traditional": "之前"
+    },
+    {
+        "simplified": "之一",
+        "pinyin": "zhī yī",
+        "meaning": "one of",
+        "traditional": "之一"
+    },
+    {
+        "simplified": "支（动）",
+        "pinyin": "zhī",
+        "meaning": "put up; protrude; support; send away",
+        "traditional": "支（動）"
+    },
+    {
+        "simplified": "植物",
+        "pinyin": "zhíwù",
+        "meaning": "Botany",
+        "traditional": "植物"
+    },
+    {
+        "simplified": "指挥",
+        "pinyin": "zhǐhuī",
+        "meaning": "command",
+        "traditional": "指揮"
+    },
+    {
+        "simplified": "制订",
+        "pinyin": "zhì dìng",
+        "meaning": "formulate; work out; map out",
+        "traditional": "制訂"
+    },
+    {
+        "simplified": "质量",
+        "pinyin": "zhìliàng",
+        "meaning": "quality",
+        "traditional": "質量"
+    },
+    {
+        "simplified": "治",
+        "pinyin": "zhì",
+        "meaning": "rule; govern; manage; cure; treatment",
+        "traditional": "治"
+    },
+    {
+        "simplified": "治疗",
+        "pinyin": "zhìliáo",
+        "meaning": "Treatment",
+        "traditional": "治療"
+    },
+    {
+        "simplified": "智力",
+        "pinyin": "zhìlì",
+        "meaning": "intelligence",
+        "traditional": "智力"
+    },
+    {
+        "simplified": "智能",
+        "pinyin": "zhìnéng",
+        "meaning": "Intelligence",
+        "traditional": "智能"
+    },
+    {
+        "simplified": "中介",
+        "pinyin": "zhōngjiè",
+        "meaning": "intermediary",
+        "traditional": "中介"
+    },
+    {
+        "simplified": "种类",
+        "pinyin": "zhǒnglèi",
+        "meaning": "type",
+        "traditional": "種類"
+    },
+    {
+        "simplified": "中奖",
+        "pinyin": "zhòng jiǎng",
+        "meaning": "win a lottery",
+        "traditional": "中獎"
+    },
+    {
+        "simplified": "种",
+        "pinyin": "zhǒng",
+        "meaning": "species",
+        "traditional": "種"
+    },
+    {
+        "simplified": "种植",
+        "pinyin": "zhòngzhí",
+        "meaning": "plant",
+        "traditional": "種植"
+    },
+    {
+        "simplified": "重量",
+        "pinyin": "zhòngliàng",
+        "meaning": "weight",
+        "traditional": "重量"
+    },
+    {
+        "simplified": "逐步",
+        "pinyin": "zhúbù",
+        "meaning": "gradually",
+        "traditional": "逐步"
+    },
+    {
+        "simplified": "逐渐",
+        "pinyin": "zhújiàn",
+        "meaning": "gradually",
+        "traditional": "逐漸"
+    },
+    {
+        "simplified": "主题",
+        "pinyin": "zhǔtí",
+        "meaning": "theme",
+        "traditional": "主題"
+    },
+    {
+        "simplified": "主席",
+        "pinyin": "zhǔxí",
+        "meaning": "Chairman",
+        "traditional": "主席"
+    },
+    {
+        "simplified": "祝福",
+        "pinyin": "zhùfú",
+        "meaning": "blessing",
+        "traditional": "祝福"
+    },
+    {
+        "simplified": "著名",
+        "pinyin": "zhùmíng",
+        "meaning": "famous",
+        "traditional": "著名"
+    },
+    {
+        "simplified": "著作",
+        "pinyin": "zhùzuò",
+        "meaning": "Work",
+        "traditional": "著作"
+    },
+    {
+        "simplified": "抓紧",
+        "pinyin": "zhuājǐn",
+        "meaning": "Pay close attention to; grasp",
+        "traditional": "抓緊"
+    },
+    {
+        "simplified": "专心",
+        "pinyin": "zhuānxīn",
+        "meaning": "Attentively",
+        "traditional": "專心"
+    },
+    {
+        "simplified": "转动",
+        "pinyin": "zhuǎn dòng",
+        "meaning": "turn; move; turn round",
+        "traditional": "轉動"
+    },
+    {
+        "simplified": "转告",
+        "pinyin": "zhuǎngào",
+        "meaning": "Tell",
+        "traditional": "轉告"
+    },
+    {
+        "simplified": "转身",
+        "pinyin": "zhuǎn shēn",
+        "meaning": "turn round; face about",
+        "traditional": "轉身"
+    },
+    {
+        "simplified": "转弯",
+        "pinyin": "zhuǎn wān",
+        "meaning": "make a turn; turn a corner",
+        "traditional": "轉彎"
+    },
+    {
+        "simplified": "转移",
+        "pinyin": "zhuǎnyí",
+        "meaning": "transfer",
+        "traditional": "轉移"
+    },
+    {
+        "simplified": "装修",
+        "pinyin": "zhuāngxiū",
+        "meaning": "decorate house",
+        "traditional": "裝修"
+    },
+    {
+        "simplified": "装置",
+        "pinyin": "zhuāng zhì",
+        "meaning": "device; equipment",
+        "traditional": "裝置"
+    },
+    {
+        "simplified": "追求",
+        "pinyin": "zhuīqiú",
+        "meaning": "Pursuit",
+        "traditional": "追求"
+    },
+    {
+        "simplified": "准时",
+        "pinyin": "zhǔnshí",
+        "meaning": "on time",
+        "traditional": "準時"
+    },
+    {
+        "simplified": "资料",
+        "pinyin": "zīliào",
+        "meaning": "data",
+        "traditional": "資料"
+    },
+    {
+        "simplified": "资源",
+        "pinyin": "zīyuán",
+        "meaning": "Resources",
+        "traditional": "資源"
+    },
+    {
+        "simplified": "自",
+        "pinyin": "zì",
+        "meaning": "from; since; self; oneself",
+        "traditional": "自"
+    },
+    {
+        "simplified": "自信",
+        "pinyin": "zìxìn",
+        "meaning": "self-confidence",
+        "traditional": "自信"
+    },
+    {
+        "simplified": "字母",
+        "pinyin": "zìmǔ",
+        "meaning": "Letter",
+        "traditional": "字母"
+    },
+    {
+        "simplified": "综合",
+        "pinyin": "zōnghé",
+        "meaning": "comprehensive",
+        "traditional": "綜合"
+    },
+    {
+        "simplified": "总共",
+        "pinyin": "zǒnggòng",
+        "meaning": "In total",
+        "traditional": "總共"
+    },
+    {
+        "simplified": "总理",
+        "pinyin": "zǒnglǐ",
+        "meaning": "prime minister",
+        "traditional": "總理"
+    },
+    {
+        "simplified": "总统",
+        "pinyin": "zǒngtǒng",
+        "meaning": "President",
+        "traditional": "總統"
+    },
+    {
+        "simplified": "总之",
+        "pinyin": "zǒngzhī",
+        "meaning": "in short",
+        "traditional": "總之"
+    },
+    {
+        "simplified": "阻止",
+        "pinyin": "zǔzhǐ",
+        "meaning": "prevent",
+        "traditional": "阻止"
+    },
+    {
+        "simplified": "嘴巴",
+        "pinyin": "zuǐ ba",
+        "meaning": "mouth",
+        "traditional": "嘴巴"
+    },
+    {
+        "simplified": "最初",
+        "pinyin": "zuìchū",
+        "meaning": "First",
+        "traditional": "最初"
+    },
+    {
+        "simplified": "作出",
+        "pinyin": "zuò chū",
+        "meaning": "make (a decision, etc.)",
+        "traditional": "作出"
+    },
+    {
+        "simplified": "作为",
+        "pinyin": "zuòwéi",
+        "meaning": "As",
+        "traditional": "作為"
+    },
+    {
+        "simplified": "做梦",
+        "pinyin": "zuò mèng",
+        "meaning": "dream; daydream",
+        "traditional": "做夢"
+    }
+]
